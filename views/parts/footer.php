@@ -1,172 +1,191 @@
-<a href="#" id="back-to-top"></a>
-        
-        <!-- footer begin -->
-            <footer class="footer-light">
+   <!--Site Footer Start-->
+   <footer class="site-footer">
+            <div class="site-footer-bg" style="background-image: url(/assets/images/backgrounds/site-footer-bg.jpg);">
+            </div>
+            <div class="site-footer__top">
                 <div class="container">
                     <div class="row">
-						<div class="col-lg-2">
-                            <div class="widget">
-                                <a href="index.html"><img alt="" class="logo" src="/assets/images/logo.png"></a>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                            <div class="footer-widget__column footer-widget__about">
+                                <div class="footer-widget__about-logo">
+                                    <a href="index.html"><img src="/assets/images/resources/footer-logo.png" alt=""></a>
+                                </div>
+                                <div class="footer-widget__about-text-box">
+                                    <p class="footer-widget__about-text">Nulla ultricies justo sit amet ante efficitur,
+                                        eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet ultricies.</p>
+                                </div>
+                                <div class="footer-widget__btn">
+                                    <a href="donate-now.html"> <span class="fa fa-heart"></span>Donate now</a>
+                                </div>
                             </div>
                         </div>
-						
-                        <div class="col-lg-2">
-                                    <div class="widget">
-                                        <h5>Company</h5>
-                                        <ul>
-											<li><a class="a-underline" href="about.html">About Us<span></span></a></li>
-                                            <li><a class="a-underline" href="jobs.html">Jobs<span></span></a></li>
-                                            <li><a class="a-underline" href="contact.html">Contact<span></span></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-2">
-                                    <div class="widget">
-                                        <h5>Product</h5>
-                                        <ul>
-                                           <li><a class="a-underline" href="features.html">Features<span></span></a></li>
-                                           <li><a class="a-underline" href="pricing.html">Pricing<span></span></a></li>
-                                           <li><a class="a-underline" href="reviews.html">Reviews<span></span></a></li>
-                                           <li><a class="a-underline" href="download.html">Download<span></span></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-2">
-                                    <div class="widget">
-                                        <h5>Resources</h5>
-                                        <ul>
-                                            <li><a class="a-underline" href="blog.html">Blog<span></span></a></li>
-                                            <li><a class="a-underline" href="video-tutorial.html">Video Tutorial<span></span></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-
-                        <div class="col-lg-4">
-                            <div class="widget">
-                                <h5>Newsletter</h5>
-
-                                <p>Signup for our newsletter to get the latest news, updates and special offers in your inbox.</p>
-                                <form action="https://www.madebydesignesia.com/themes/elaxo/blank.php" class="row" id="form_subscribe" method="post" name="form_subscribe">
-                                    <div class="col text-center">
-                                        <input class="form-control" id="name_1" name="name_1" placeholder="enter your email" type="text" /> <a href="#" id="btn-submit"><i class="arrow_right"></i></a>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                </form>
-                                <div class="spacer-10"></div>
-                                <small>Your email is safe with us. We don't spam.</small>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="footer-widget__column footer-widget__links clearfix">
+                                <h3 class="footer-widget__title">Links</h3>
+                                <ul class="footer-widget__links-list list-unstyled clearfix">
+                                    <li><a href="about.html">About us</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="news.html">Latest News</a></li>
+                                    <li><a href="event-details.html">Recent Events</a></li>
+                                    <li><a href="donation.html">Donations</a></li>
+                                </ul>
                             </div>
                         </div>
-                    </div>
-                </div>
-
-                <div class="subfooter">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="de-flex">
-                                    <div class="de-flex-col">
-                                        &copy; Copyright 2023 - Elaxo by Designesia
-                                    </div>
-
-                                    <div class="de-flex-col">
-                                        <div class="social-icons">
-                                            <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                            <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                            <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                            <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            <a href="#"><i class="fa fa-rss fa-lg"></i></a>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                            <div class="footer-widget__column footer-widget__non-profit clearfix">
+                                <h3 class="footer-widget__title">Non profit</h3>
+                                <ul class="footer-widget__non-profit-list list-unstyled clearfix">
+                                    <li><a href="donation-details.html">Differently Abled Kids</a></li>
+                                    <li><a href="donation-details.html">Help Child Cancer</a></li>
+                                    <li><a href="donation-details.html">Clean Pure Water</a></li>
+                                    <li><a href="donation-details.html">Give them Education</a></li>
+                                    <li><a href="donation-details.html">Start a Fundraising</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                            <div class="footer-widget__column footer-widget__contact">
+                                <h3 class="footer-widget__title">Contact</h3>
+                                <p class="footer-widget__contact-text">380 Street Kilda Broklyn Road <br> Melbourne
+                                    Australia
+                                </p>
+                                <ul class="list-unstyled footer-widget__contact-list">
+                                    <li>
+                                        <div class="icon">
+                                            <i class="fa fa-envelope"></i>
                                         </div>
-                                    </div>
+                                        <div class="text">
+                                            <p><a href="mailto:needhelp@company.com ">needhelp@company.com</a></p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <i class="fas fa-phone-alt"></i>
+                                        </div>
+                                        <div class="text">
+                                            <p><a href="tel:980009630">+ 98 (000) - 9630</a></p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="site-footer__social">
+                                    <a href="index2.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="index2.html#"><i class="fab fa-facebook"></i></a>
+                                    <a href="index2.html#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="index2.html#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </footer>
-            <!-- footer close -->
-
-            <div id="preloader">
-                <div class="spinner">
-                    <div class="bounce1"></div>
-                    <div class="bounce2"></div>
-                    <div class="bounce3"></div>
-                </div>
             </div>
-        </div>
-
-        <div id="cookieConsent">
-            <div class="container-fluid">
-                <div class="de-flex">
-                    <div class="de-flex-content">
-                        This website is using cookies. <a href="#" target="_blank">More info</a>.
-                    </div>
-                    <div class="de-flex-content">
-                        <a class="cookieConsentOK">Accept All Cookies</a>
+            <div class="site-footer__bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="site-footer__bottom-inner">
+                                <p class="site-footer__bottom-text">© All Copyright 2023 by <a href="index2.html#">Oxpins.com</a>
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </footer>
+        <!--Site Footer End-->
 
-        <div id="selector">
-          
-            <div id="demo-rtl" class="sc-opt">
-                <div class="sc-icon">RTL</div><span class="sc-val">Click to Enable</span>
+
+    </div><!-- /.page-wrapper -->
+
+
+    <div class="mobile-nav__wrapper">
+        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+        <!-- /.mobile-nav__overlay -->
+        <div class="mobile-nav__content">
+            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+
+            <div class="logo-box">
+                <a href="index.html" aria-label="logo image"><img src="/assets/images/resources/logo-2.png" width="143"
+                        alt="" /></a>
             </div>
+            <!-- /.logo-box -->
+            <div class="mobile-nav__container"></div>
+            <!-- /.mobile-nav__container -->
 
-            <div class="sc-opt sc-mt">
-                <div class="sc-icon"><i class="fa fa-eyedropper"></i></div>
-                <span class="opt tc1" data-color="scheme-01"></span>
-                <span class="opt tc2" data-color="scheme-02"></span>
-                <span class="opt tc3" data-color="scheme-03"></span>
-                <span class="opt tc4" data-color="scheme-04"></span>
-                <span class="opt tc5" data-color="scheme-05"></span>
-                <span class="opt tc6" data-color="scheme-06"></span>
-                <span class="opt tc7" data-color="scheme-07"></span>
-            </div>
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@oxpins.com</a>
+                </li>
+                <li>
+                    <i class="fa fa-phone-alt"></i>
+                    <a href="tel:666-888-0000">666 888 0000</a>
+                </li>
+            </ul><!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__top">
+                <div class="mobile-nav__social">
+                    <a href="index2.html#" class="fab fa-twitter"></a>
+                    <a href="index2.html#" class="fab fa-facebook-square"></a>
+                    <a href="index2.html#" class="fab fa-pinterest-p"></a>
+                    <a href="index2.html#" class="fab fa-instagram"></a>
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
+
+
 
         </div>
+        <!-- /.mobile-nav__content -->
+    </div>
+    <!-- /.mobile-nav__wrapper -->
 
-        <!-- Javascript Files
-    ================================================== -->
-        <script src="/assets/js/jquery.min.js"></script>
-        <script src="/assets/js/popper.min.js"></script>
-        <script src="/assets/js/bootstrap.min.js"></script>
-        <script src="/assets/js/wow.min.js"></script>
-        <script src="/assets/js/jquery.isotope.min.js"></script>
-        <script src="/assets/js/easing.js"></script>
-        <script src="/assets/js/owl.carousel.js"></script>
-        <script src="/assets/js/validation.js"></script>
-        <script src="/assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="/assets/js/enquire.min.js"></script>
-        <script src="/assets/js/jquery.stellar.min.js"></script>
-        <script src="/assets/js/jquery.plugin.js"></script>
-        <script src="/assets/js/typed.js"></script>
-        <script src="/assets/js/jquery.countTo.js"></script>
-        <script src="/assets/js/jquery.countdown.js"></script>
-        <script src="/assets/js/typed.js"></script>
-        <script src="/assets/js/designesia.js"></script>
+    <div class="search-popup">
+        <div class="search-popup__overlay search-toggler"></div>
+        <!-- /.search-popup__overlay -->
+        <div class="search-popup__content">
+            <form action="index2.html#">
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+                <input type="text" id="search" placeholder="Search Here..." />
+                <button type="submit" aria-label="search submit" class="thm-btn">
+                    <i class="icon-magnifying-glass"></i>
+                </button>
+            </form>
+        </div>
+        <!-- /.search-popup__content -->
+    </div>
+    <!-- /.search-popup -->
 
-        <script>
-        $(function () {
-            // jquery typed plugin
-            $(".typed").typed({
-                stringsElement: $('.typed-strings'),
-                typeSpeed: 100,
-                backDelay: 1500,
-                loop: true,
-                contentType: 'html', // or text
-                // defaults to false for infinite loop
-                loopCount: false,
-                callback: function () { null; },
-                resetCallback: function () { newTyped(); }
-            });
-        });
-    </script>       
+    <a href="index2.html#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>
 
-    </body>
 
-<!-- Mirrored from www.madebydesignesia.com/themes/elaxo/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Jul 2023 13:48:38 GMT -->
+    <script src="/assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="/assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="/assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="/assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="/assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="/assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="/assets/vendors/odometer/odometer.min.js"></script>
+    <script src="/assets/vendors/swiper/swiper.min.js"></script>
+    <script src="/assets/vendors/tiny-slider/tiny-slider.min.js"></script>
+    <script src="/assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="/assets/vendors/wow/wow.js"></script>
+    <script src="/assets/vendors/isotope/isotope.js"></script>
+    <script src="/assets/vendors/countdown/countdown.min.js"></script>
+    <script src="/assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="/assets/vendors/bxslider/jquery.bxslider.min.js"></script>
+    <script src="/assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="/assets/vendors/vegas/vegas.min.js"></script>
+    <script src="/assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="/assets/vendors/timepicker/timePicker.js"></script>
+    <script src="/assets/vendors/circleType/jquery.circleType.js"></script>
+    <script src="/assets/vendors/circleType/jquery.lettering.min.js"></script>
+
+
+
+
+    <!-- template js -->
+    <script src="/assets/js/oxpins.js"></script>
+</body>
+
 </html>
