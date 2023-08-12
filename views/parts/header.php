@@ -90,7 +90,7 @@
                                         </div>
                                         <div class="main-menu-two__volunteers-text-box">
                                             <p class="main-menu-two__volunteers-text"><a
-                                                    href="become-volunteer.html">Become a
+                                                    href="/get-involved">Become a
                                                     <span>volunteers</span></a>
                                             </p>
                                         </div>
@@ -105,7 +105,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Helpline</p>
-                                                    <h5><a href="tel:980009630">+ 98 (000) - 9630</a></h5>
+                                                    <h5><a href="tel:447405274147">+44 7405 274147</a></h5>
                                                 </div>
                                             </li>
                                             <li>
@@ -114,7 +114,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Send email</p>
-                                                    <h5><a href="mailto:needhelp@company.com">needhelp@sympathyafrica.org</a>
+                                                    <h5><a href="mailto:Info@sympathyafrica.org">Info@sympathyafrica.org</a>
                                                     </h5>
                                                 </div>
                                             </li>

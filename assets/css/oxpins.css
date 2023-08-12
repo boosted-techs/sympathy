@@ -17,7 +17,7 @@
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
-:root {
+/* :root {
   --oxpins-font: 'Manrope', sans-serif;
   --oxpins-font-two: 'Nunito', sans-serif;
   --oxpins-font-three: 'Caveat', cursive;
@@ -29,7 +29,7 @@
   --oxpins-base-rgb: 0, 113, 93;
   --oxpins-black: #283734;
   --oxpins-black-rgb: 40, 55, 52;
-  --oxpins-primary: #fbd45a;
+  --oxpins-primary: #00bdfe;
   --oxpins-primary-rgb: 251, 212, 90;
   --oxpins-extra: #f9f4e8;
   --oxpins-extra-rgb: 249, 244, 232;
@@ -37,6 +37,29 @@
   --oxpins-bdr-color-rgb: 238, 233, 219;
   --oxpins-bdr-radius: 20px;
 
+} */
+:root {
+  --oxpins-font: 'Manrope', sans-serif;
+  --oxpins-font-two: 'Nunito', sans-serif;
+  --oxpins-font-three: 'Caveat', cursive;
+  --oxpins-gray: #6f7775;
+  --oxpins-gray-rgb: 111, 119, 117;
+  --oxpins-white: #ffffff;
+  --oxpins-white-rgb: 255, 255, 255;
+  --oxpins-base: #c797bd; /* Your Primary Color */
+  --oxpins-base-rgb: 208, 0, 166; /* RGB value for #00bdfe */
+  --oxpins-black: #40283a;
+  --oxpins-black-rgb: 40, 55, 52;
+
+  --oxpins-primary: #00bdfe; /* Your Secondary Color */
+  --oxpins-primary-rgb: 0, 189, 254; /* RGB value for #d000a6 */
+
+  --oxpins-extra: #f9f4e8;
+  --oxpins-extra-rgb: 249, 244, 232;
+  --oxpins-bdr-color: #eee9db;
+  --oxpins-bdr-color-rgb: 238, 233, 219;
+  --oxpins-bdr-radius: 20px;
+  --background : #2e1227;
 }
 
 .row {
@@ -2826,7 +2849,7 @@ body.locked .page-wrapper {
 
 .main-slider-three .swiper-slide {
   position: relative;
-  background-color: #212d2b;
+  background-color: var(--background);
 }
 
 .main-slider-three .container {
@@ -5258,7 +5281,7 @@ body.locked .page-wrapper {
   justify-content: center;
   text-align: center;
   color: var(--oxpins-white);
-  background-color: #212d2b;
+  background-color: var(--background);
   font-size: 15px;
   border-radius: 50%;
   overflow: hidden;
@@ -5311,7 +5334,7 @@ body.locked .page-wrapper {
 .site-footer__bottom {
   position: relative;
   display: block;
-  background-color: #212d2b;
+  background-color: var(--background);
 }
 
 .site-footer__bottom-inner {

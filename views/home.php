@@ -35,10 +35,10 @@ include "parts/header.php";
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
-                                        <p class="main-slider-two__sub-title">Helping Today. Helping Tommorow</p>
-                                        <h2 class="main-slider-two__title">Give Child the <br> Gift of Eductions</h2>
+                                        <p class="main-slider-two__sub-title">Empowering Dreams, Transforming Futures</p>
+                                        <h2 class="main-slider-two__title">Unlocking Potential <br>Through Education and Empowerment</h2>
                                         <div class="main-slider-two__btn-box">
-                                            <a href="about.html" class="thm-btn main-slider-two__btn"> Discover more</a>
+                                            <a href="/about-us" class="thm-btn main-slider-two__btn"> Discover more</a>
                                         </div>
                                     </div>
                                 </div>
@@ -62,10 +62,10 @@ include "parts/header.php";
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
-                                        <p class="main-slider-two__sub-title">Helping Today. Helping Tommorow</p>
-                                        <h2 class="main-slider-two__title">Give Child the <br> Gift of Eductions</h2>
+                                        <p class="main-slider-two__sub-title">Restoring Dignity, Inspiring Change</p>
+                                        <h2 class="main-slider-two__title">Creating Brighter Tomorrow <br> for African Communities</h2>
                                         <div class="main-slider-two__btn-box">
-                                            <a href="about.html" class="thm-btn main-slider-two__btn"> Discover more</a>
+                                            <a href="/about-us" class="thm-btn main-slider-two__btn"> Discover more</a>
                                         </div>
                                     </div>
                                 </div>
@@ -89,8 +89,8 @@ include "parts/header.php";
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
-                                        <p class="main-slider-two__sub-title">Helping Today. Helping Tommorow</p>
-                                        <h2 class="main-slider-two__title">Give Child the <br> Gift of Eductions</h2>
+                                        <p class="main-slider-two__sub-title">Together We Rise, United for Progress</p>
+                                        <h2 class="main-slider-two__title">Collaborating for a Stronger <br> and Inclusive Africa</h2>
                                         <div class="main-slider-two__btn-box">
                                             <a href="about.html" class="thm-btn main-slider-two__btn"> Discover more</a>
                                         </div>
@@ -152,7 +152,7 @@ include "parts/header.php";
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
                                         <p class="feature-two__tagline">Donate to</p>
-                                        <h3 class="feature-two__title"><a href="about.html">Medical & <br>
+                                        <h3 class="feature-two__title"><a href="/donate">Medical & <br>
                                                 treatement</a></h3>
                                     </div>
                                     <div class="feature-two__icon">
@@ -161,7 +161,7 @@ include "parts/header.php";
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
-                                <a href="about.html"><span class="icon-right-arrow"></span></a>
+                                <a href="/donate"><span class="icon-right-arrow"></span></a>
                             </div>
                         </div>
                     </div>
@@ -175,7 +175,7 @@ include "parts/header.php";
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
                                         <p class="feature-two__tagline">Donate to</p>
-                                        <h3 class="feature-two__title"><a href="about.html">Bring people <br>
+                                        <h3 class="feature-two__title"><a href="/doante">Bring people <br>
                                                 together</a></h3>
                                     </div>
                                     <div class="feature-two__icon">
@@ -184,7 +184,7 @@ include "parts/header.php";
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
-                                <a href="about.html"><span class="icon-right-arrow"></span></a>
+                                <a href="/donate"><span class="icon-right-arrow"></span></a>
                             </div>
                         </div>
                     </div>
@@ -225,21 +225,22 @@ include "parts/header.php";
                     </div>
                     <div class="col-xl-6">
                         <div class="about-two__right">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Get to know about oxpins</span>
-                                <h2 class="section-title__title">Helping each other can make world better</h2>
-                            </div>
-                            <p class="about-two__text-1">We help companies develop powerful corporate social
-                                responsibility, grantmaking, and employee engagement strategies. Our impact is about
-                                more than moving money to where it’s needed most.</p>
+                                <div class="section-title text-left">
+                                    <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
+                                    <h2 class="section-title__title">Restoring Dignity and Hope in African Communities</h2>
+                                </div>
+                                <p class="about-two__text-1">Sympathy Africa is dedicated to bringing positive change by providing education,
+                                    healthcare, and empowerment to young girls and women. We believe that collective efforts can create a better
+                                    world, and our impact goes beyond financial support.</p>
+
                             <ul class="list-unstyled about-two__points">
                                 <li>
                                     <div class="icon">
                                         <span class="icon-target"></span>
                                     </div>
                                     <div class="text">
-                                        <h4>Our mission</h4>
-                                        <p>Nonprofits around the world apply and join us to access more funding.</p>
+                                                                            <h4>Our mission</h4>
+                                    <p>To bring dignity and hope to men, women and children in African communities through health care, education, access to justice and community re-integration.</p>                                    
                                     </div>
                                 </li>
                                 <li>
@@ -247,8 +248,9 @@ include "parts/header.php";
                                         <span class="icon-solidarity-1"></span>
                                     </div>
                                     <div class="text">
-                                        <h4>Our story</h4>
-                                        <p>Nonprofits around the world apply and join us to access more funding.</p>
+                                                                                <h4>Vision</h4>
+                                        <p>Empowering Dreams, Transforming Futures: A world where every young girl and woman stands as a beacon of strength, courage, and boundless potential.
+                                        </p>                                    
                                     </div>
                                 </li>
                             </ul>
@@ -270,7 +272,7 @@ include "parts/header.php";
                                     </div>
                                 </div>
                             </div>
-                            <a href="about.html" class="thm-btn about-two__btn">Discover More</a>
+                            <a href="/about-us" class="thm-btn about-two__btn">Discover More</a>
                         </div>
                     </div>
                 </div>
@@ -278,1122 +280,12 @@ include "parts/header.php";
         </section>
         <!--About Two End-->
 
-        <!--Causse Two Start-->
-        <section class="causes-two">
-            <div class="causes-two-shape-1" style="background-image: url(/assets/images/shapes/causes-two-shape-1.png);">
-            </div>
-            <div class="container">
-                <div class="causes-two__top">
-                    <div class="row">
-                        <div class="col-xl-7 col-lg-6">
-                            <div class="causes-two-top__left">
-                                <div class="section-title text-left">
-                                    <span class="section-title__tagline">Help & donate</span>
-                                    <h2 class="section-title__title">Find the popular cause
-                                        and donate them</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-6">
-                            <div class="causes-two-top__right">
-                                <p class="causes-two-top__text">Powerful corporate social responsibility,
-                                    grantmaking, and employee engagement strategies. Our impact is about more than
-                                    moving money to where it’s needed most. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="causes-two__tab">
-                    <div class="causes-two__tab-box tabs-box">
-                        <div class="row">
-                            <div class="col-xl-3 col-lg-3">
-                                <div class="causes-two__tab-btn-box">
-                                    <ul class="tab-buttons clearfix list-unstyled">
-                                        <li data-tab="#all-causes" class="tab-btn active-btn"><span>All causes
-                                                <sup>6</sup> </span>
-                                        </li>
-                                        <li data-tab="#health" class="tab-btn"><span>Health <sup>3</sup></span>
-                                        </li>
-                                        <li data-tab="#education" class="tab-btn"><span>Education <sup>2</sup></span>
-                                        </li>
-                                        <li data-tab="#medical" class="tab-btn"><span>Medical <sup>1</sup></span></li>
-                                        <li data-tab="#food-water" class="tab-btn"><span>Food & water
-                                                <sup>2</sup></span></li>
-                                        <li data-tab="#charity" class="tab-btn"><span>Charity for poors
-                                                <sup>3</sup></span></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-9 col-lg-9">
-                                <div class="causes-two__tab-main-content">
-                                    <div class="tabs-content">
-                                        <!--tab-->
-                                        <div class="tab active-tab" id="all-causes">
-                                            <div class="causes-two__inner-content">
-                                                <div class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                                    data-owl-options='{
-                                                    "loop": true,
-                                                    "autoplay": true,
-                                                    "margin": 30,
-                                                    "nav": true,
-                                                    "dots": false,
-                                                    "smartSpeed": 500,
-                                                    "autoplayTimeout": 10000,
-                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
-                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
-                                                    "responsive": {
-                                                        "0": {
-                                                            "items": 1
-                                                        },
-                                                        "768": {
-                                                            "items": 1
-                                                        },
-                                                        "992": {
-                                                            "items": 3
-                                                        },
-                                                        "1200": {
-                                                            "items": 3.181111
-                                                        }
-                                                    }
-                                                }'>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Education</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">Let’s
-                                                                        education
-                                                                        for children get good life</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-2.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Medical</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">It is a long
-                                                                        established fact that a reader
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-3.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--tab-->
-                                        <div class="tab" id="health">
-                                            <div class="causes-two__inner-content">
-                                                <div class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                                    data-owl-options='{
-                                                    "loop": true,
-                                                    "autoplay": true,
-                                                    "margin": 30,
-                                                    "nav": true,
-                                                    "dots": false,
-                                                    "smartSpeed": 500,
-                                                    "autoplayTimeout": 10000,
-                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
-                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
-                                                    "responsive": {
-                                                        "0": {
-                                                            "items": 1
-                                                        },
-                                                        "768": {
-                                                            "items": 1
-                                                        },
-                                                        "992": {
-                                                            "items": 3
-                                                        },
-                                                        "1200": {
-                                                            "items": 3.181111
-                                                        }
-                                                    }
-                                                }'>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Education</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">Let’s
-                                                                        education
-                                                                        for children get good life</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-2.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Medical</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">It is a long
-                                                                        established fact that a reader</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-3.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--tab-->
-                                        <div class="tab" id="education">
-                                            <div class="causes-two__inner-content">
-                                                <div class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                                    data-owl-options='{
-                                                    "loop": true,
-                                                    "autoplay": true,
-                                                    "margin": 30,
-                                                    "nav": true,
-                                                    "dots": false,
-                                                    "smartSpeed": 500,
-                                                    "autoplayTimeout": 10000,
-                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
-                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
-                                                    "responsive": {
-                                                        "0": {
-                                                            "items": 1
-                                                        },
-                                                        "768": {
-                                                            "items": 1
-                                                        },
-                                                        "992": {
-                                                            "items": 3
-                                                        },
-                                                        "1200": {
-                                                            "items": 3.181111
-                                                        }
-                                                    }
-                                                }'>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Education</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">Let’s
-                                                                        education
-                                                                        for children get good life</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-2.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Medical</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">It is a long
-                                                                        established fact that a reader</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-3.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--tab-->
-                                        <div class="tab" id="medical">
-                                            <div class="causes-two__inner-content">
-                                                <div class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                                    data-owl-options='{
-                                                    "loop": true,
-                                                    "autoplay": true,
-                                                    "margin": 30,
-                                                    "nav": true,
-                                                    "dots": false,
-                                                    "smartSpeed": 500,
-                                                    "autoplayTimeout": 10000,
-                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
-                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
-                                                    "responsive": {
-                                                        "0": {
-                                                            "items": 1
-                                                        },
-                                                        "768": {
-                                                            "items": 1
-                                                        },
-                                                        "992": {
-                                                            "items": 3
-                                                        },
-                                                        "1200": {
-                                                            "items": 3.181111
-                                                        }
-                                                    }
-                                                }'>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Education</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">Let’s
-                                                                        education
-                                                                        for children get good life</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-2.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Medical</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">It is a long
-                                                                        established fact that a reader</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-3.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--tab-->
-                                        <div class="tab" id="food-water">
-                                            <div class="causes-two__inner-content">
-                                                <div class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                                    data-owl-options='{
-                                                    "loop": true,
-                                                    "autoplay": true,
-                                                    "margin": 30,
-                                                    "nav": true,
-                                                    "dots": false,
-                                                    "smartSpeed": 500,
-                                                    "autoplayTimeout": 10000,
-                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
-                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
-                                                    "responsive": {
-                                                        "0": {
-                                                            "items": 1
-                                                        },
-                                                        "768": {
-                                                            "items": 1
-                                                        },
-                                                        "992": {
-                                                            "items": 3
-                                                        },
-                                                        "1200": {
-                                                            "items": 3.181111
-                                                        }
-                                                    }
-                                                }'>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Education</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">Let’s
-                                                                        education
-                                                                        for children get good life</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-2.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Medical</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">It is a long
-                                                                        established fact that a reader
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-3.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--tab-->
-                                        <div class="tab" id="charity">
-                                            <div class="causes-two__inner-content">
-                                                <div class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                                    data-owl-options='{
-                                                    "loop": true,
-                                                    "autoplay": true,
-                                                    "margin": 30,
-                                                    "nav": true,
-                                                    "dots": false,
-                                                    "smartSpeed": 500,
-                                                    "autoplayTimeout": 10000,
-                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
-                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
-                                                    "responsive": {
-                                                        "0": {
-                                                            "items": 1
-                                                        },
-                                                        "768": {
-                                                            "items": 1
-                                                        },
-                                                        "992": {
-                                                            "items": 3
-                                                        },
-                                                        "1200": {
-                                                            "items": 3.181111
-                                                        }
-                                                    }
-                                                }'>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Education</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">Let’s
-                                                                        education
-                                                                        for children get good life</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-2.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Medical</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">It is a long
-                                                                        established fact that a reader</a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-3.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <div class="causes-one__single">
-                                                            <div class="causes-one__img">
-                                                                <img src="/assets/images/resources/causes-1-1.jpg"
-                                                                    alt="">
-                                                                <div class="causes-one__cat">
-                                                                    <p>Food</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="causes-one__content">
-                                                                <h3 class="causes-one__title"><a
-                                                                        href="donation-details.html">There are many
-                                                                        variations of passages of
-                                                                    </a>
-                                                                </h3>
-                                                                <p class="causes-one__text">There are many of lorem, but
-                                                                    majori have
-                                                                    suffered alteration in some form.</p>
-                                                                <div class="causes-one__progress">
-                                                                    <div class="causes-one__progress-shape"
-                                                                        style="background-image: url(/assets/images/shapes/causes-one-progress-shape-1.png);">
-                                                                    </div>
-                                                                    <div class="bar">
-                                                                        <div class="bar-inner count-bar"
-                                                                            data-percent="36%">
-                                                                            <div class="count-text">36%</div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="causes-one__goals">
-                                                                        <p><span>$25,270</span> Raised</p>
-                                                                        <p><span>$30,000</span> Goal</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Causse Two End-->
-
         <!--Testimonial Two Start-->
         <section class="testimonial-two">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Our testimonials</span>
-                    <h2 class="section-title__title">What they’re talking <br> about oxpins</h2>
+                    <h2 class="section-title__title">What they’re talking <br> about Sympath Africa</h2>
                 </div>
                 <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
@@ -1430,8 +322,7 @@ include "parts/header.php";
                                     style="background-image: url(/assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
                                 <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                    support. It’s throughly refresing to such a personal touch.</p>
                                 <div class="testimonial-two__client-info">
                                     <h4 class="testimonial-two__client-name">Sarah albert</h4>
                                     <p class="testimonial-two__client-sub-title">Volunteer</p>
@@ -1457,9 +348,9 @@ include "parts/header.php";
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(/assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                               
+                                    <p class="textimonial-two__text">"I am truly inspired by the dedication and impact of Sympathy Africa. Their commitment to empowering
+                young girls and women is remarkable."</p>
                                 <div class="testimonial-two__client-info">
                                     <h4 class="testimonial-two__client-name">Kevin martin</h4>
                                     <p class="testimonial-two__client-sub-title">Volunteer</p>
@@ -1485,9 +376,8 @@ include "parts/header.php";
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(/assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">Sympathy Africa's programs have the potential to create a brighter future for Africa. Their focus on
+                education and empowerment is exactly what our communities need.</p>
                                 <div class="testimonial-two__client-info">
                                     <h4 class="testimonial-two__client-name">Jessica brown</h4>
                                     <p class="testimonial-two__client-sub-title">Volunteer</p>
@@ -1570,67 +460,11 @@ include "parts/header.php";
         <!--Gallery Two End-->
 
         <!--Help Start-->
-        <section class="help">
-            <div class="help-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                style="background-image: url(/assets/images/backgrounds/help-bg.jpg);"></div>
-            <div class="help-shape-1" style="background-image: url(/assets/images/shapes/help-shape-1.png);"></div>
-            <div class="container">
-                <div class="row">
-                    <!--Help Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="help__single">
-                            <div class="help__single-inner">
-                                <div class="help__icon">
-                                    <span class="icon-charity"></span>
-                                </div>
-                                <div class="help__content">
-                                    <h4 class="help__title"><a href="become-volunteer.html">Become a volunteer</a></h4>
-                                    <p class="help__text">There are many variations of but the majority have simply free
-                                        text suffered.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Help Single End-->
-                    <!--Help Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="help__single">
-                            <div class="help__single-inner">
-                                <div class="help__icon">
-                                    <span class="icon-generous"></span>
-                                </div>
-                                <div class="help__content">
-                                    <h4 class="help__title"><a href="about.html">Quick fundraising</a></h4>
-                                    <p class="help__text">There are many variations of but the majority have simply free
-                                        text suffered.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Help Single End-->
-                    <!--Help Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="help__single">
-                            <div class="help__single-inner">
-                                <div class="help__icon">
-                                    <span class="icon-fundraiser"></span>
-                                </div>
-                                <div class="help__content">
-                                    <h4 class="help__title"><a href="donate-now.html">Start donating</a></h4>
-                                    <p class="help__text">There are many variations of but the majority have simply free
-                                        text suffered.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Help Single End-->
-                </div>
-            </div>
-        </section>
+        
         <!--Help End-->
 
         <!--Urgent Cause Start-->
-        <section class="urgent-cause">
+        <!-- <section class="urgent-cause">
             <div class="container">
                 <div class="urgent-cause__inner wow fadeInUp" data-wow-delay="100ms">
                     <div class="urgent-cause-bg"
@@ -1663,7 +497,7 @@ include "parts/header.php";
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Urgent Cause End-->
 
         <!--Team One Start-->
@@ -1775,7 +609,7 @@ include "parts/header.php";
                             </div>
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">Helpline</p>
-                                <h3 class="contact-one__number"><a href="tel:980009630">+ 98 (000) - 9630</a></h3>
+                                <h3 class="contact-one__number"><a href="tel:+447405274147">+ +44 7405 274147</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">
@@ -1785,7 +619,7 @@ include "parts/header.php";
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">Send email</p>
                                 <h3 class="contact-one__number"><a
-                                        href="mailto:needhelp@company.com">needhelp@company.com</a></h3>
+                                        href="mailto:needhelp@company.com">Sympathy.africa@yahoo.com</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">
@@ -1793,8 +627,8 @@ include "parts/header.php";
                                 <span class="icon-location"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">380 St Kilda Road</p>
-                                <h3 class="contact-one__number">Melbourne, Australia</h3>
+                                <p class="contact-one__sub-title"> Kampala</p>
+                                <h3 class="contact-one__number">Uganda</h3>
                             </div>
                         </li>
                     </ul>
@@ -1803,179 +637,6 @@ include "parts/header.php";
         </section>
         <!--Contact One End-->
 
-        <!--News Two Start-->
-        <section class="news-two">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">News & articles</span>
-                    <h2 class="section-title__title">Directly from the <br> latest news and articles</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-6 col-lg-4">
-                        <div class="news-two__single">
-                            <div class="news-two__img-one">
-                                <img src="/assets/images/blog/news-2-1.jpg" alt="">
-                                <div class="news-two__date-one">
-                                    <p>23 May, 2022</p>
-                                </div>
-                            </div>
-                            <div class="news-two__content-one">
-                                <ul class="list-unstyled news-two__meta-one">
-                                    <li><a href="news-details.html"><i class="far fa-user-circle"></i> By admin</a>
-                                    </li>
-                                    <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
-                                            Comments</a>
-                                    </li>
-                                </ul>
-                                <h3 class="news-two__title-one"><a href="news-details.html">How does the
-                                        malnutrition affect children?</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-8">
-                        <div class="news-two__single">
-                            <ul class="list-unstyled news-two__list">
-                                <li class="news-two__list-single">
-                                    <div class="news-two__img-two">
-                                        <img src="/assets/images/blog/news-2-2.jpg" alt="">
-                                        <div class="news-two__date-two">
-                                            <p>23 May, 2022</p>
-                                        </div>
-                                    </div>
-                                    <div class="news-two__content-two">
-                                        <ul class="list-unstyled news-two__meta-two">
-                                            <li><a href="news-details.html"><i class="far fa-user-circle"></i> By
-                                                    admin</a>
-                                            </li>
-                                            <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
-                                                    Comments</a>
-                                            </li>
-                                        </ul>
-                                        <h3 class="news-two__title-two"><a href="news-details.html">Donation is hope for
-                                                poor childrens in africa</a></h3>
-                                    </div>
-                                </li>
-                                <li class="news-two__list-single">
-                                    <div class="news-two__img-two">
-                                        <img src="/assets/images/blog/news-2-3.jpg" alt="">
-                                        <div class="news-two__date-two">
-                                            <p>23 May, 2022</p>
-                                        </div>
-                                    </div>
-                                    <div class="news-two__content-two">
-                                        <ul class="list-unstyled news-two__meta-two">
-                                            <li><a href="news-details.html"><i class="far fa-user-circle"></i> By
-                                                    admin</a>
-                                            </li>
-                                            <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
-                                                    Comments</a>
-                                            </li>
-                                        </ul>
-                                        <h3 class="news-two__title-two"><a href="news-details.html">It has roots in a
-                                                piece of classical Latin</a></h3>
-                                    </div>
-                                </li>
-                                <li class="news-two__list-single">
-                                    <div class="news-two__img-two">
-                                        <img src="/assets/images/blog/news-2-4.jpg" alt="">
-                                        <div class="news-two__date-two">
-                                            <p>23 May, 2022</p>
-                                        </div>
-                                    </div>
-                                    <div class="news-two__content-two">
-                                        <ul class="list-unstyled news-two__meta-two">
-                                            <li><a href="news-details.html"><i class="far fa-user-circle"></i> By
-                                                    admin</a>
-                                            </li>
-                                            <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
-                                                    Comments</a>
-                                            </li>
-                                        </ul>
-                                        <h3 class="news-two__title-two"><a href="news-details.html">randomised words
-                                                which don't look even</a></h3>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--News Two End-->
-
-        <!--Brand One Start-->
-        <section class="brand-one brand-two">
-            <div class="brand-two-shape-1" style="background-image: url(/assets/images/shapes/brand-two-shape-1.png);">
-            </div>
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                            "0": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "375": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "575": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 3
-                            },
-                            "767": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 4
-                            },
-                            "991": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 5
-                            },
-                            "1199": {
-                                "spaceBetween": 100,
-                                "slidesPerView": 6
-                            }
-                        }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="/assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Brand One End-->
 
      
 
