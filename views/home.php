@@ -464,7 +464,7 @@ include "parts/header.php";
         <!--Help End-->
 
         <!--Urgent Cause Start-->
-        <!-- <section class="urgent-cause">
+        <section class="urgent-cause">
             <div class="container">
                 <div class="urgent-cause__inner wow fadeInUp" data-wow-delay="100ms">
                     <div class="urgent-cause-bg"
@@ -497,7 +497,7 @@ include "parts/header.php";
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
         <!--Urgent Cause End-->
 
         <!--Team One Start-->
@@ -514,14 +514,14 @@ include "parts/header.php";
                             <div class="team-one__img">
                                 <img src="/assets/images/team/team-1-1.jpg" alt="">
                                 <div class="team-one__social">
-                                    <a href="index2.html#"><i class="fab fa-facebook"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-twitter"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="https://layerdrops.com/oxpinshtml/main-html/team-details.html">Sarah albert</a></h3>
+                                <h3 class="team-one__name"><a href="#">Sarah albert</a></h3>
                                 <p class="team-one__sub-title">Volunteer</p>
                             </div>
                         </div>
@@ -533,14 +533,14 @@ include "parts/header.php";
                             <div class="team-one__img">
                                 <img src="/assets/images/team/team-1-2.jpg" alt="">
                                 <div class="team-one__social">
-                                    <a href="index2.html#"><i class="fab fa-facebook"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-twitter"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="https://layerdrops.com/oxpinshtml/main-html/team-details.html">Kevin martin</a></h3>
+                                <h3 class="team-one__name"><a href="#">Kevin martin</a></h3>
                                 <p class="team-one__sub-title">Volunteer</p>
                             </div>
                         </div>
@@ -552,14 +552,14 @@ include "parts/header.php";
                             <div class="team-one__img">
                                 <img src="/assets/images/team/team-1-3.jpg" alt="">
                                 <div class="team-one__social">
-                                    <a href="index2.html#"><i class="fab fa-facebook"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-twitter"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="https://layerdrops.com/oxpinshtml/main-html/team-details.html">Aleesha eve</a></h3>
+                                <h3 class="team-one__name"><a href="#">Aleesha eve</a></h3>
                                 <p class="team-one__sub-title">Volunteer</p>
                             </div>
                         </div>
@@ -571,14 +571,14 @@ include "parts/header.php";
                             <div class="team-one__img">
                                 <img src="/assets/images/team/team-1-4.jpg" alt="">
                                 <div class="team-one__social">
-                                    <a href="index2.html#"><i class="fab fa-facebook"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-twitter"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="https://layerdrops.com/oxpinshtml/main-html/team-details.html">David cooper</a></h3>
+                                <h3 class="team-one__name"><a href="#">David cooper</a></h3>
                                 <p class="team-one__sub-title">Volunteer</p>
                             </div>
                         </div>
@@ -591,10 +591,10 @@ include "parts/header.php";
 
         <!--Google Map Start-->
         <section class="google-map">
-            <iframe
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.256401275712!2d31.983333599999995!3d0.0833333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d5d8e76e926eb%3A0x5fd5d85418e1d4b0!2sBwala!5e0!3m2!1sen!2sug!4v1692631682407!5m2!1sen!2sug" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <!-- <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="google-map__one" allowfullscreen></iframe>
-
+                class="google-map__one" allowfullscreen></iframe> -->
         </section>
         <!--Google Map End-->
 
@@ -609,7 +609,7 @@ include "parts/header.php";
                             </div>
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">Helpline</p>
-                                <h3 class="contact-one__number"><a href="tel:+447405274147">+ +44 7405 274147</a></h3>
+                                <h3 class="contact-one__number"><a href="tel:+447405274147">+256780788933</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">

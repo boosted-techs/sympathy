@@ -83,8 +83,8 @@
                                     <a href="index.html"><img src="/assets/images/resources/footer-logo.png" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
-                                    <p class="footer-widget__about-text">Nulla ultricies justo sit amet ante efficitur,
-                                        eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet ultricies.</p>
+                                    <p class="footer-widget__about-text">Join a community of compassionate individuals who are dedicated to serving those in need and creating positive change. 
+Your time and efforts will leave a lasting impact and create memories that will warm your heart forever.</p>
                                 </div>
                                 <div class="footer-widget__btn">
                                     <a href="donate-now.html"> <span class="fa fa-heart"></span>Donate now</a>
@@ -95,31 +95,30 @@
                             <div class="footer-widget__column footer-widget__links clearfix">
                                 <h3 class="footer-widget__title">Links</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="news.html">Latest News</a></li>
-                                    <li><a href="event-details.html">Recent Events</a></li>
-                                    <li><a href="donation.html">Donations</a></li>
+                                    <li><a href="/about-us">About us</a></li>
+                                    <li><a href="/contact-us">Contact</a></li>
+                                    <li><a href="/projects">Project</a></li>
+                                    <li><a href="/donate">Donations</a></li>
+               
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                             <div class="footer-widget__column footer-widget__non-profit clearfix">
-                                <h3 class="footer-widget__title">Non profit</h3>
+                                <h3 class="footer-widget__title">OUR PROGRAMS</h3>
                                 <ul class="footer-widget__non-profit-list list-unstyled clearfix">
-                                    <li><a href="donation-details.html">Differently Abled Kids</a></li>
-                                    <li><a href="donation-details.html">Help Child Cancer</a></li>
-                                    <li><a href="donation-details.html">Clean Pure Water</a></li>
-                                    <li><a href="donation-details.html">Give them Education</a></li>
-                                    <li><a href="donation-details.html">Start a Fundraising</a></li>
+                                    <li><a href="#">women Empowerment</a></li>
+                                    <li><a href="#">health</a></li>
+                                    <li><a href="#">Girl Child Education</a></li>
+                                    <li><a href="#">Digital skills Training</a></li>
+                                    <li><a href="#">Nutrition & Agriculture</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3>
-                                <p class="footer-widget__contact-text">380 Street Kilda Broklyn Road <br> Melbourne
-                                    Australia
+                                <p class="footer-widget__contact-text">Mpigi District, Butamabala bwara subcounty, <br> Uganda
                                 </p>
                                 <ul class="list-unstyled footer-widget__contact-list">
                                     <li>
@@ -127,7 +126,7 @@
                                             <i class="fa fa-envelope"></i>
                                         </div>
                                         <div class="text">
-                                            <p><a href="mailto:needhelp@company.com ">needhelp@company.com</a></p>
+                                            <p><a href="mailto:info@sympathyafrica.org">Info@sympathyafrica.org</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -135,15 +134,15 @@
                                             <i class="fas fa-phone-alt"></i>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:980009630">+ 98 (000) - 9630</a></p>
+                                            <p><a href="tel:256780788933">+256780788933</a></p>
                                         </div>
                                     </li>
                                 </ul>
                                 <div class="site-footer__social">
-                                    <a href="index2.html#"><i class="fab fa-twitter"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-facebook"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="index2.html#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -155,7 +154,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© All Copyright 2023 by <a href="index2.html#">Oxpins.com</a>
+                                <p class="site-footer__bottom-text">© All Copyright 2023 by <a href="i">Sympathy Africa</a>
                                 </p>
                             </div>
                         </div>
@@ -176,7 +175,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="/assets/images/resources/logo-2.png" width="143"
+                <a href="/donate" aria-label="logo image"><img src="/assets/images/resources/logo-2.png" width="143"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
