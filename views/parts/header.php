@@ -105,7 +105,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Helpline</p>
-                                                    <h5><a href="tel:256780788933">256780788933</a></h5>
+                                                    <h5><a href="tel:256780788933">+256780788933</a></h5>
                                                 </div>
                                             </li>
                                             <li>
@@ -187,8 +187,8 @@
                                             <a href="#"
                                                 class="main-menu-two__search search-toggler icon-magnifying-glass"></a>
                                         </div>
-                                        <div class="main-menu__cat-box">
-                                            <a href="cart.html" class="main-menu__cart icon-shopping-cart"></a>
+                                        <div class="main-menu-two__search-box text-dark">
+                                            <a href="#" class="main-menu__cart icon-shopping-cart text-dark"></a>
                                         </div>
                                         <div class="main-menu-two__btn-box">
                                             <a href="/donate" class="main-menu-two__btn"> <span

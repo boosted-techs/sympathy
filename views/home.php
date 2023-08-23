@@ -129,16 +129,16 @@ include "parts/header.php";
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
                                         <p class="feature-two__tagline">Donate to</p>
-                                        <h3 class="feature-two__title"><a href="about.html">Eduction & <br> healthy
+                                        <h3 class="feature-two__title"><a href="/donate">Eduction & <br> healthy
                                                 food</a></h3>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-apple"></span>
+                                    <div class="feature-two__icon text-white">
+                                        <span class="icon-apple text-white"></span>
                                     </div>
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
-                                <a href="about.html"><span class="icon-right-arrow"></span></a>
+                                <a href="/donate"><span class="icon-right-arrow"></span></a>
                             </div>
                         </div>
                     </div>
@@ -155,8 +155,8 @@ include "parts/header.php";
                                         <h3 class="feature-two__title"><a href="/donate">Medical & <br>
                                                 treatement</a></h3>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-health-insurance"></span>
+                                    <div class="feature-two__icon text-white">
+                                        <span class="icon-health-insurance text-white"></span>
                                     </div>
                                 </div>
                             </div>
@@ -178,8 +178,8 @@ include "parts/header.php";
                                         <h3 class="feature-two__title"><a href="/doante">Bring people <br>
                                                 together</a></h3>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-business-partnership"></span>
+                                    <div class="feature-two__icon text-white">
+                                        <span class="icon-business-partnership text-white"></span>
                                     </div>
                                 </div>
                             </div>
