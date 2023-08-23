@@ -285,6 +285,10 @@ include "parts/header.php";
         <section class="gallery-two">
             <div class="gallery-one__bottom">
                 <div class="gallery-one__container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">In Photos</span>
+                    <h2 class="section-title__title">Our Gallery</h2>
+                </div>
                     <ul class="list-unstyled gallery-one__list">
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="gallery-one__img">
