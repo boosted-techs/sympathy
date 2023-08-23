@@ -96,10 +96,11 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                 <h3 class="footer-widget__title">LINKS</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
                                     <li><a href="/about-us">About us</a></li>
+                                                                    <li><a href="/team">Our Team</a></li>
                                     <li><a href="/contact-us">Contact</a></li>
-                                    <li><a href="/projects">Projects</a></li>
-                                    <li><a href="/donate">Donations</a></li>
-                                    <li><a href="/team">Our Team</a></li>
+                                    <li><a href="/get-involved">Volunteer</a></li>
+                                    <li><a href="/donate">Donate</a></li>
+
                
                                 </ul>
                             </div>
@@ -109,9 +110,13 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                 <h3 class="footer-widget__title">OUR PROGRAMS</h3>
                                 <ul class="footer-widget__non-profit-list list-unstyled clearfix">
                                 <li><a href="/programs/women-empowement">Women Empowerment</a></li>
+                                <li><a href="#">Health</a></li>
                                                 <li><a href="/programs/girl-child">Girl child education</a></li>
+
                                                 <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
                                                 <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
+                                             
+                                                
                                 </ul>
                             </div>
                         </div>
@@ -135,7 +140,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                         </div>
                                         <div class="text">
                                             <p><a href="tel:256780788933">+256780788933</a></p>
-                                            <p><a href="tel:+256706567546">++256706567546</a></p>
+                                            <p><a href="tel:+256706567546">+256706567546</a></p>
                                         </div>
                                     </li>
                                 </ul>
