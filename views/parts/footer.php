@@ -99,6 +99,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                     <li><a href="/contact-us">Contact</a></li>
                                     <li><a href="/projects">Projects</a></li>
                                     <li><a href="/donate">Donations</a></li>
+                                    <li><a href="/team">Our Team</a></li>
                
                                 </ul>
                             </div>
@@ -107,11 +108,10 @@ Your time and efforts will leave a lasting impact and create memories that will 
                             <div class="footer-widget__column footer-widget__non-profit clearfix">
                                 <h3 class="footer-widget__title">OUR PROGRAMS</h3>
                                 <ul class="footer-widget__non-profit-list list-unstyled clearfix">
-                                    <li><a href="#">women Empowerment</a></li>
-                                    <li><a href="#">health</a></li>
-                                    <li><a href="#">Girl Child Education</a></li>
-                                    <li><a href="#">Digital skills Training</a></li>
-                                    <li><a href="#">Nutrition & Agriculture</a></li>
+                                <li><a href="/programs/women-empowement">Women Empowerment</a></li>
+                                                <li><a href="/programs/girl-child">Girl child education</a></li>
+                                                <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
+                                                <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -135,6 +135,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                         </div>
                                         <div class="text">
                                             <p><a href="tel:256780788933">+256780788933</a></p>
+                                            <p><a href="tel:+256706567546">++256706567546</a></p>
                                         </div>
                                     </li>
                                 </ul>

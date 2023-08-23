@@ -145,9 +145,9 @@
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Programs</a>
+                                            <a href="#">Our Programs</a>
                                             <ul>
-                                                <li><a href="/programs/women-empowement">women Empowerment</a></li>
+                                                <li><a href="/programs/women-empowement">Women Empowerment</a></li>
                                                 <li><a href="/programs/girl-child">Girl child education</a></li>
                                                 <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
                                                 <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
@@ -156,7 +156,7 @@
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a href="/#">Projects</a>
+                                            <a href="/#">Our Projects</a>
                                             <ul>
                                             <li><a href="/programs/women-empowement">women Empowerment</a></li>
                                                 <li><a href="/programs/girl-child">Girl child education</a></li>
