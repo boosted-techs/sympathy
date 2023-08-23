@@ -134,7 +134,7 @@
                             </div>
                             <div class="main-menu-two__right-bottom">
                                 <div class="main-menu-two__main-menu-box">
-                                    <a href="index2.html#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                    <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                     <ul class="main-menu__list">
                                         <li class="">
                                             <a href="/">Home </a>
@@ -144,16 +144,30 @@
                                             <a href="/about-us">About us</a>
                                             
                                         </li>
-                                        <li class="">
-                                            <a href="/program">Programs</a>
+                                        <li class="dropdown">
+                                            <a href="#">Programs</a>
+                                            <ul>
+                                                <li><a href="/programs/women-empowement">women Empowerment</a></li>
+                                                <li><a href="/programs/girl-child">Girl child education</a></li>
+                                                <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
+                                                <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
+                                               
+                                            </ul>
+                                            
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="/#">Projects</a>
+                                            <ul>
+                                            <li><a href="/programs/women-empowement">women Empowerment</a></li>
+                                                <li><a href="/programs/girl-child">Girl child education</a></li>
+                                                <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
+                                                <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
+                                               
+                                            </ul>
                                             
                                         </li>
                                         <li class="">
-                                            <a href="/projects">Projects</a>
-                                            
-                                        </li>
-                                        <li class="">
-                                            <a href="/get-invovled">Get invovled</a>
+                                            <a href="/get-involved">Get invovled</a>
                                             
                                         </li>
                                         <li class="">
@@ -170,14 +184,14 @@
                                 <div class="main-menu-two__main-menu-content-box">
                                     <div class="main-menu-two__search-cat-btn-box">
                                         <div class="main-menu-two__search-box">
-                                            <a href="index2.html#"
+                                            <a href="#"
                                                 class="main-menu-two__search search-toggler icon-magnifying-glass"></a>
                                         </div>
                                         <div class="main-menu__cat-box">
                                             <a href="cart.html" class="main-menu__cart icon-shopping-cart"></a>
                                         </div>
                                         <div class="main-menu-two__btn-box">
-                                            <a href="donate-now.html" class="main-menu-two__btn"> <span
+                                            <a href="/donate" class="main-menu-two__btn"> <span
                                                     class="fa fa-heart"></span>
                                                 Donate
                                                 now</a>

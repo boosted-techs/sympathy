@@ -10,4 +10,30 @@ class HomeController extends BaseController {
     function about() {
         $this->view->render("about");
     }
+
+    function digital() {
+        $this->view->render("programs/digital");
+    }
+
+    function women() {
+        $this->view->render("programs/women");
+    }
+    function girl_child() {
+        $this->view->render("programs/girl_child");
+    }
+    function nutriotion() {
+        $this->view->render("programs/nutriotion");
+    }
+    function about_us() {
+        $this->view->render("about-us");
+    }
+    function get_involved() {
+        $this->view->render("get-involved");
+    }
+    function donate() {
+        $this->view->render("donate");
+    }
+    function projects() {
+        $this->view->render("projects/project");
+    }
 }

@@ -7,5 +7,13 @@ if ( !defined('APPLICATION_LOADED') || !APPLICATION_LOADED ) {
 $routes = array(
     "/" => "HomeController@index",
     "/contact-us" => "HomeController@contactUs",
-    "/about" => "HomeController@about"
+    "/about" => "HomeController@about",
+    "/programs/digital-skills" => "HomeController@digital",
+    "/programs/women-empowement" => "HomeController@women",
+    "/programs/girl-child" => "HomeController@girl_child",
+    "/programs/nutriotion" => "HomeController@nutriotion",   
+    "/about-us" => "HomeController@about_us", 
+    "/get-involved" => "HomeController@get_involved", 
+    "/donate" => "HomeController@donate", 
+    "/projects" => "HomeController@projects", 
     );

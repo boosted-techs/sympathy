@@ -93,11 +93,11 @@ Your time and efforts will leave a lasting impact and create memories that will 
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__links clearfix">
-                                <h3 class="footer-widget__title">Links</h3>
+                                <h3 class="footer-widget__title">LINKS</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
                                     <li><a href="/about-us">About us</a></li>
                                     <li><a href="/contact-us">Contact</a></li>
-                                    <li><a href="/projects">Project</a></li>
+                                    <li><a href="/projects">Projects</a></li>
                                     <li><a href="/donate">Donations</a></li>
                
                                 </ul>
@@ -117,7 +117,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__contact">
-                                <h3 class="footer-widget__title">Contact</h3>
+                                <h3 class="footer-widget__title">CONTACT</h3>
                                 <p class="footer-widget__contact-text">Mpigi District, Butamabala bwara subcounty, <br> Uganda
                                 </p>
                                 <ul class="list-unstyled footer-widget__contact-list">
@@ -185,19 +185,19 @@ Your time and efforts will leave a lasting impact and create memories that will 
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@oxpins.com</a>
+                    <a href="mailto:Info@sympathyafrica.org">Info@sympathyafrica.org</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:256780788933">256780788933</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="index2.html#" class="fab fa-twitter"></a>
-                    <a href="index2.html#" class="fab fa-facebook-square"></a>
-                    <a href="index2.html#" class="fab fa-pinterest-p"></a>
-                    <a href="index2.html#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-pinterest-p"></a>
+                    <a href="#" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 
@@ -212,7 +212,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
         <div class="search-popup__overlay search-toggler"></div>
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
-            <form action="index2.html#">
+            <form action="#">
                 <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
                 <input type="text" id="search" placeholder="Search Here..." />
                 <button type="submit" aria-label="search submit" class="thm-btn">
@@ -224,7 +224,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
     </div>
     <!-- /.search-popup -->
 
-    <a href="index2.html#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>
 
 
     <script src="/assets/vendors/jquery/jquery-3.6.0.min.js"></script>

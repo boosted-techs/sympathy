@@ -240,7 +240,7 @@ include "parts/header.php";
                                     </div>
                                     <div class="text">
                                                                             <h4>Our mission</h4>
-                                    <p>To bring dignity and hope to men, women and children in African communities through health care, education, access to justice and community re-integration.</p>                                    
+                                    <p>Our mission at Sympathy Africa is clear and resolute: To foster a world where girls and women are celebrated for their strength, wisdom, and potential thtrough a journey of empowerment to leadership.</p>                                    
                                     </div>
                                 </li>
                                 <li>
@@ -591,10 +591,9 @@ include "parts/header.php";
 
         <!--Google Map Start-->
         <section class="google-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.256401275712!2d31.983333599999995!3d0.0833333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d5d8e76e926eb%3A0x5fd5d85418e1d4b0!2sBwala!5e0!3m2!1sen!2sug!4v1692631682407!5m2!1sen!2sug"  style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            <!-- <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="google-map__one" allowfullscreen></iframe> -->
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.256401275712!2d31.983333599999995!3d0.0833333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d5d8e76e926eb%3A0x5fd5d85418e1d4b0!2sBwala!5e0!3m2!1sen!2sug!4v1692631682407!5m2!1sen!2sug"
+                class="google-map__one" allowfullscreen></iframe>
         </section>
         <!--Google Map End-->
 
@@ -608,7 +607,7 @@ include "parts/header.php";
                                 <span class="icon-phone-call"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">Helpline</p>
+                                <p class="contact-one__sub-title">HELPLINE</p>
                                 <h3 class="contact-one__number"><a href="tel:+447405274147">+256780788933</a></h3>
                             </div>
                         </li>
@@ -617,7 +616,7 @@ include "parts/header.php";
                                 <span class="icon-message"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">Send email</p>
+                                <p class="contact-one__sub-title">SEND EMAIL</p>
                                 <h3 class="contact-one__number"><a
                                         href="mailto:needhelp@company.com">Sympathy.africa@yahoo.com</a></h3>
                             </div>
@@ -627,8 +626,8 @@ include "parts/header.php";
                                 <span class="icon-location"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title"> Kampala</p>
-                                <h3 class="contact-one__number">Uganda</h3>
+                                <p class="contact-one__sub-title"> LOCATION</p>
+                                <h3 class="contact-one__number">Kampala, Uganda</h3>
                             </div>
                         </li>
                     </ul>
