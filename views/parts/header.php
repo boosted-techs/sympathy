@@ -140,12 +140,16 @@
                                             <a href="/">Home </a>
                                             
                                         </li>
-                                        <li class="">
-                                            <a href="/about-us">About us</a>
+                                        <li class="dropdown">
+                                            <a href="#">About us</a>
+                                            <ul>
+                                                <li><a href="/about-us">ABOUT US</a></li>
+                                                <li><a href="/our-team">OUR TEAM</a></li>
+                                            </ul>
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Our Programs</a>
+                                            <a href="#">Programs</a>
                                             <ul>
                                                 <li><a href="/programs/women-empowement">WOMEN EMPOWERMENT</a></li>
                                                 <li><a href="/programs/girl-child">GIRL CHILD EDUCATION</a></li>
@@ -156,7 +160,7 @@
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a href="/#">Our Projects</a>
+                                            <a href="/#">Projects</a>
                                             <ul>
                                           
                                                
@@ -179,7 +183,7 @@
                                             
                                         </li>
                                         <li class="">
-                                            <a href="/donate">Donate</a>
+                                            <a href="/donate-list">Donate</a>
                                             
                                         </li>
                                        
@@ -191,7 +195,7 @@
                                             <a href="#"
                                                 class="main-menu-two__search search-toggler icon-magnifying-glass"></a>
                                         </div>
-                                        <div class="main-menu-two__search-box text-dark">
+                                        <div class="text-dark"  style="margin-left:10px">
                                             <a href="#" class="main-menu__cart icon-shopping-cart text-dark"></a>
                                         </div>
                                         <div class="main-menu-two__btn-box" style="margin-left:10px">

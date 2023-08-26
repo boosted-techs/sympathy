@@ -50,6 +50,50 @@ include "parts/header.php";
             </div>
         </section>
         <!--Contact Three End-->
+          <!--Google Map Start-->
+          <section class="google-map">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.256401275712!2d31.983333599999995!3d0.0833333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d5d8e76e926eb%3A0x5fd5d85418e1d4b0!2sBwala!5e0!3m2!1sen!2sug!4v1692631682407!5m2!1sen!2sug"
+                class="google-map__one" allowfullscreen></iframe>
+        </section>
+        <!--Google Map End-->
+        <section class="contact-one">
+            <div class="container">
+                <div class="contact-one__inne">
+                    <ul class="list-unstyled contact-one__list">
+                        <li class="contact-one__single">
+                            <div class="contact-one__icon">
+                                <span class="icon-phone-call"></span>
+                            </div>
+                            <div class="contact-one__content">
+                                <p class="contact-one__sub-title">HELPLINE</p>
+                                <h3 class="contact-one__number"><a href="tel:+447405274147">+256780788933</a></h3>
+                            </div>
+                        </li>
+                        <li class="contact-one__single">
+                            <div class="contact-one__icon">
+                                <span class="icon-message"></span>
+                            </div>
+                            <div class="contact-one__content">
+                                <p class="contact-one__sub-title">SEND EMAIL</p>
+                                <h3 class="contact-one__number"><a
+                                        href="mailto:needhelp@company.com">Sympathy.africa@yahoo.com</a></h3>
+                            </div>
+                        </li>
+                        <li class="contact-one__single">
+                            <div class="contact-one__icon">
+                                <span class="icon-location"></span>
+                            </div>
+                            <div class="contact-one__content">
+                                <p class="contact-one__sub-title"> LOCATION</p>
+                                <h3 class="contact-one__number">Kampala, Uganda</h3>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!--Contact One End-->
 
 <?php
 include "parts/footer.php";

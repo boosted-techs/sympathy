@@ -36,4 +36,12 @@ class HomeController extends BaseController {
     function projects() {
         $this->view->render("projects/project");
     }
+
+    function donate_list() {
+        $this->view->render("donate_list");
+    }
+
+    function our_team() {
+        $this->view->render("our_team");
+    }
 }
