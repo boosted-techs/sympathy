@@ -97,6 +97,70 @@ include "parts/header.php";
                         </div>
                         <!--Testimonial Two Single End-->
                     </div>
+                    <div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                    reprehenderit.</p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                </div>
+                              
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div><div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                    reprehenderit.</p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                </div>
+                              
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div><div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                    reprehenderit.</p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                </div>
+                              
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div>
                 </div>
             </div>
         </section>

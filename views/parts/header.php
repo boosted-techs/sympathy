@@ -143,7 +143,7 @@
                                         <li class="dropdown">
                                             <a href="#">About us</a>
                                             <ul>
-                                                <li><a href="/about-us">ABOUT US</a></li>
+                                                <li><a href="/about-us">WHO WE ARE</a></li>
                                                 <li><a href="/our-team">OUR TEAM</a></li>
                                             </ul>
                                             
