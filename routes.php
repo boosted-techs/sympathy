@@ -17,5 +17,6 @@ $routes = array(
     "/donate" => "HomeController@donate", 
     "/projects" => "HomeController@projects", 
     "/our-team" => "HomeController@our_team",
-    "/donate-list" => "HomeController@donate_list"
+    "/donate-list" => "HomeController@donate_list",
+    "/shop" => "HomeController@shop"
     );

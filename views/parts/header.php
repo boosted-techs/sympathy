@@ -196,7 +196,7 @@
                                                 class="main-menu-two__search search-toggler icon-magnifying-glass"></a>
                                         </div>
                                         <div class="text-dark"  style="margin-left:10px">
-                                            <a href="#" class="main-menu__cart icon-shopping-cart text-dark"></a>
+                                            <a href="/shop" class="main-menu__cart icon-shopping-cart text-dark"></a>
                                         </div>
                                         <div class="main-menu-two__btn-box" style="margin-left:10px">
                                             <a href="/donate" class="main-menu-two__btn"> <span

@@ -44,4 +44,8 @@ class HomeController extends BaseController {
     function our_team() {
         $this->view->render("our_team");
     }
+
+    function shop() {
+        $this->view->render("shop");
+    }
 }
