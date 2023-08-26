@@ -46,9 +46,9 @@
   --oxpins-gray-rgb: 111, 119, 117;
   --oxpins-white: #ffffff;
   --oxpins-white-rgb: 255, 255, 255;
-  --oxpins-base: #c797bd; /* Your Primary Color */
+  --oxpins-base: #FC0FC0; /* Your Primary Color */
   --oxpins-base-rgb: 208, 0, 166; /* RGB value for #00bdfe */
-  --oxpins-black: #40283a;
+  --oxpins-black: #001c44;
   --oxpins-black-rgb: 40, 55, 52;
 
   --oxpins-primary: #00bdfe; /* Your Secondary Color */
@@ -59,7 +59,7 @@
   --oxpins-bdr-color: #eee9db;
   --oxpins-bdr-color-rgb: 238, 233, 219;
   --oxpins-bdr-radius: 20px;
-  --background : #2e1227;
+  --background : #001c44;
 }
 
 .row {
@@ -943,7 +943,7 @@ ul {
 
 .main-menu .main-menu__list>li+li,
 .stricky-header .main-menu__list>li+li {
-  margin-left: 55px;
+  margin-left: 25px;
 }
 
 .main-menu .main-menu__list>li>a,

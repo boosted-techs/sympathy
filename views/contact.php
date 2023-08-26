@@ -7,7 +7,7 @@ include "parts/header.php";
                 style="background-image: url(assets/images/shapes/contact-three-shape.png);"></div>
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">Contact with us</span>
+                    <span class="section-title__tagline">Contact us</span>
                     <h2 class="section-title__title">Feel free to write us <br> anytime</h2>
                 </div>
                 <div class="contact-page__form-box">

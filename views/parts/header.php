@@ -147,10 +147,10 @@
                                         <li class="dropdown">
                                             <a href="#">Our Programs</a>
                                             <ul>
-                                                <li><a href="/programs/women-empowement">Women Empowerment</a></li>
-                                                <li><a href="/programs/girl-child">Girl child education</a></li>
-                                                <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
-                                                <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
+                                                <li><a href="/programs/women-empowement">WOMEN EMPOWERMENT</a></li>
+                                                <li><a href="/programs/girl-child">GIRL CHILD EDUCATION</a></li>
+                                                <li><a href="#">HEALTH PROGRAM</a></li>
+                                                
                                                
                                             </ul>
                                             
@@ -158,12 +158,15 @@
                                         <li class="dropdown">
                                             <a href="/#">Our Projects</a>
                                             <ul>
-                                            <li><a href="/programs/women-empowement">women Empowerment</a></li>
-                                                <li><a href="/programs/girl-child">Girl child education</a></li>
-                                                <li><a href="/programs/digital-skills">Digital Skills Training</a></li>
-                                                <li><a href="/programs/nutriotion">Nutrition & Agriculture</a></li>
+                                          
+                                               
+                                                <li><a href="/programs/digital-skills">NUTRITION & AGRICULTURE</a></li>
+                                                <li><a href="/programs/nutriotion">DIGITAL SKILLS TRAINING</a></li>
+                                                <a href="/programs/women-empowement">YOUTH MENTORSHIP </a></li>
+                                                <a href="/programs/women-empowement">CLEAN WATER PROJECT</a></li>
                                                
                                             </ul>
+
                                             
                                         </li>
                                         <li class="">
@@ -183,14 +186,14 @@
                                 </div>
                                 <div class="main-menu-two__main-menu-content-box">
                                     <div class="main-menu-two__search-cat-btn-box">
-                                        <div class="main-menu-two__search-box">
+                                        <div class="main-menu-two__search-box" style="margin-left: 10px;">
                                             <a href="#"
                                                 class="main-menu-two__search search-toggler icon-magnifying-glass"></a>
                                         </div>
                                         <div class="main-menu-two__search-box text-dark">
                                             <a href="#" class="main-menu__cart icon-shopping-cart text-dark"></a>
                                         </div>
-                                        <div class="main-menu-two__btn-box">
+                                        <div class="main-menu-two__btn-box" style="margin-left:10px">
                                             <a href="/donate" class="main-menu-two__btn"> <span
                                                     class="fa fa-heart"></span>
                                                 Donate
