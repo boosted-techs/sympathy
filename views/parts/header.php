@@ -162,8 +162,9 @@
                                                
                                                 <li><a href="/programs/digital-skills">NUTRITION & AGRICULTURE</a></li>
                                                 <li><a href="/programs/nutriotion">DIGITAL SKILLS TRAINING</a></li>
-                                                <a href="/programs/women-empowement">YOUTH MENTORSHIP </a></li>
-                                                <a href="/programs/women-empowement">CLEAN WATER PROJECT</a></li>
+                                                <li>
+                                                    <a href="/programs/women-empowement">YOUTH MENTORSHIP </a></li>
+                                               <li> <a href="/programs/women-empowement">CLEAN WATER PROJECT</a></li>
                                                
                                             </ul>
 
