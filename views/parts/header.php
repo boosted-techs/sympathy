@@ -74,8 +74,8 @@
                 <div class="main-menu-two__wrapper">
                     <div class="main-menu-two__wrapper-inner">
                         <div class="main-menu-two__left">
-                            <div class="main-menu-two__logo">
-                                <a href="index.html"><img src="/assets/images/resources/logo-2.png" alt=""></a>
+                            <div class="main-menu-two__logo" style="object-fit:contain">
+                                <a href="/"><img src="/assets/new/header.png" alt="" style="width:200px; height:100px; object-fit:contain"></a>
                             </div>
                             <div class="main-menu-two__shape-1 float-bob-x">
                                 <img src="/assets/images/shapes/main-menu-shape-1.png" alt="">
@@ -91,7 +91,7 @@
                                         <div class="main-menu-two__volunteers-text-box">
                                             <p class="main-menu-two__volunteers-text"><a
                                                     href="/get-involved">Become a
-                                                    <span>volunteers</span></a>
+                                                    <span>volunteer</span></a>
                                             </p>
                                         </div>
                                     </div>

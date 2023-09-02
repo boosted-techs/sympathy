@@ -11,7 +11,7 @@ include "parts/header.php";
                         <li><span>/</span></li>
                         <li class="active">Our Team</li>
                     </ul>
-                    <h2>Shop</h2>
+                    <h2>Team</h2>
                 </div>
             </div>
         </section>
@@ -50,18 +50,18 @@ include "parts/header.php";
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
+                                <img src="/assets/new/kabira-chairman.jpg" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">Kirabira is the founder of Sympathy Africa with a master’s Degree in Bhakt/Religious principles and 
+Diploma in Marketing and Certificate in Education, He’s former Head Master and Founder Hill Top Primary School who dedicated himself
+to helping the needy particularly youth and girl child.</p>
                                 <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Sarah albert</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                    <h4 class="testimonial-two__client-name">Charles Kirabira </h4>
+                                    <p class="testimonial-two__client-sub-title">Chairperson</p>
                                 </div>
                                
                             </div>
@@ -72,18 +72,22 @@ include "parts/header.php";
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                                <img src="/assets/new/angel-vice.jpg" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">
+                                Nakirijja Angel is a feminist and gender and development expert who is passionate about creating systems and structures that work favorably for all 
+women and girl child without any form of discrimination. For over 15years, Angel has dedicated her time to work towards women empowerment and 
+girls through working with local and international NGOs.
+Currently, Angel as Vice Chair Person Sympathy Africa with a Degree in Health Data Science.
+
+                                </p>
                                 <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                    <h4 class="testimonial-two__client-name">Angel Nakirijja</h4>
+                                    <p class="testimonial-two__client-sub-title">Vice chairpeson</p>
                                 </div>
                               
                             </div>
@@ -94,18 +98,19 @@ include "parts/header.php";
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
+                                <img src="/assets/new/mubejja.jpg" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">
+                                Mumbenja Rovince is a Feminist and Family Lawyer with specific work and activism in the human rights sector through advocacy, and media advocacy. 
+She previously worked as Lawyer at USPC Uganda Security Printing Company. She is keen on community service and serves as Secretary  Sympathy Africa.
+                                </p>
                                 <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Jessica brown</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                    <h4 class="testimonial-two__client-name">Rovince Mumbenja</h4>
+                                    <p class="testimonial-two__client-sub-title">Secretary</p>
                                 </div>
                                
                             </div>
@@ -116,18 +121,20 @@ include "parts/header.php";
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                                <img src="/assets/new/namusisi.jpg" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">
+                                With over 7 years of experience Justine is also passionate about Sexual Reproductive Health and Human Rights, and 
+she has been actively involved in various initiatives aimed at educating youth on this critical topic at Sympathy Africa.
+
+                                </p>
                                 <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                    <h4 class="testimonial-two__client-name">Justine Namusisi</h4>
+                                    <p class="testimonial-two__client-sub-title">Programs Manager</p>
                                 </div>
                               
                             </div>
@@ -143,12 +150,12 @@ include "parts/header.php";
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">Sarah love the phrase 'Empowered women, empower women' This inspires her to do her job as a financial officer at Sympathy Africa with a solid background in 
+gender and human rights, holding a Degree in Social Worker Studies from the Makerere University. 
+A passionate advocate of women’s empowerment, she is keen on collaborative spaces that disrupt patriarchal systems and amplify the voices of girls and women.</p>
                                 <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                    <h4 class="testimonial-two__client-name">Sarah Nanyanzi </h4>
+                                    <p class="testimonial-two__client-sub-title">Finance</p>
                                 </div>
                               
                             </div>
@@ -164,12 +171,11 @@ include "parts/header.php";
                                 <div class="testimonial-two__shape-1"
                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
+                                <p class="testimonial-two__text">Having spent 8 years working in developing countries in both the private and Non-Profit Organizations, his experiences have shown him that if there is to be change, 
+it must be driven from the grass roots upwards.With limited funds available Braham wants to ensure those funds are used to maximize the impact we have on people’s lives.</p>
                                 <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                    <h4 class="testimonial-two__client-name">Braham Mugwanya </h4>
+                                    <p class="testimonial-two__client-sub-title">Finance officer</p>
                                 </div>
                               
                             </div>

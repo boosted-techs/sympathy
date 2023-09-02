@@ -80,14 +80,14 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
-                                    <a href="index.html"><img src="/assets/images/resources/footer-logo.png" alt=""></a>
+                                    <a href="/"><img src="/assets/new/footer.png" style="width: 100px;" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">Join a community of compassionate individuals who are dedicated to serving those in need and creating positive change. 
 Your time and efforts will leave a lasting impact and create memories that will warm your heart forever.</p>
                                 </div>
                                 <div class="footer-widget__btn">
-                                    <a href="donate-now.html"> <span class="fa fa-heart"></span>Donate now</a>
+                                    <a href="/donate"> <span class="fa fa-heart"></span>Donate now</a>
                                 </div>
                             </div>
                         </div>
@@ -123,7 +123,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__contact">
                                 <h3 class="footer-widget__title">CONTACT</h3>
-                                <p class="footer-widget__contact-text">Mpigi District, Butamabala bwara subcounty, <br> Uganda
+                                <p class="footer-widget__contact-text">Mawokota North, 30miles off Masaka Road, Mpigi District Uganda
                                 </p>
                                 <ul class="list-unstyled footer-widget__contact-list">
                                     <li>
@@ -181,7 +181,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="/donate" aria-label="logo image"><img src="/assets/images/resources/logo-2.png" width="143"
+                <a href="/donate" aria-label="logo image"><img src="/assets/new/footer.png" width="143"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -218,10 +218,10 @@ Your time and efforts will leave a lasting impact and create memories that will 
         <div class="search-popup__overlay search-toggler"></div>
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
-            <form action="#">
+            <form action="/" method="get">
                 <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
-                <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="thm-btn">
+                <input type="text" id="search" name="q" placeholder="Search Here..." />
+                <button type="button" aria-label="search submit" class="thm-btn">
                     <i class="icon-magnifying-glass"></i>
                 </button>
             </form>
