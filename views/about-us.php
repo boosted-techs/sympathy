@@ -20,7 +20,7 @@ include "parts/header.php";
 <section class="about-four">
     <div class="container">
         <div class="row">
-            <div class="col-xl-6">
+            <!-- <div class="col-xl-12">
                 <div class="about-four__left">
                     <div class="about-four__img-box">
                         <div class="about-four__img">
@@ -32,8 +32,8 @@ include "parts/header.php";
                         <div class="about-four__border"></div>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-6">
+            </div> -->
+            <div class="col-xl-12">
                 <div class="about-four__right">
                     <div class="section-title text-left">
                         <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
@@ -84,7 +84,7 @@ The organization strives to enhance their socio-economic status, promote financi
  <section class="about-two">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6">
+                    <!-- <div class="col-xl-6">
                         <div class="about-two__left">
                             <div class="about-two__img-box  wow slideInLeft" data-wow-delay="100ms"
                                 data-wow-duration="2500ms">
@@ -108,9 +108,9 @@ The organization strives to enhance their socio-economic status, promote financi
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="about-two__right">
+                    </div> -->
+                    <div class="col-xl-12 " style="margin-top: 100px;">
+                        <div class="about-four__right">
                                 <div class="section-title text-left">
                                     <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
                                     <h2 class="section-title__title">Restoring Dignity and Hope in African Communities</h2>
@@ -145,11 +145,12 @@ The organization strives to enhance their socio-economic status, promote financi
             </div>
         </section>
 
-        <section class="about-four">
-    <div class="container">
+        <section class="about-two" >
+    <div class="container" >
         <div class="row">
-         
-            <div class="col-xl-10 mx-auto pb-4">
+       
+        </div>
+            <div class="col-xl-12 pb-4">
                 <div class="about-four__right">
                     <div class="section-title text-left">
                         <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>

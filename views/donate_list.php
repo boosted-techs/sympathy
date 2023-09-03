@@ -24,12 +24,12 @@ include "parts/header.php";
                     <!--Donations List Single Start-->
                     <div class="donations-list__single">
                         <div class="row">
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__img">
                                     <img src="/assets/new/WEB22_WASHBanner.jpeg" alt="">
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
@@ -117,12 +117,12 @@ Donate for clean water today;
                     <!--Donations List Single Start-->
                     <div class="donations-list__single">
                         <div class="row">
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__img">
                                     <img src="/assets//new/Girls_Education-530x354.jpeg" alt="">
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
@@ -184,12 +184,12 @@ Donating for girl child education is an investment in the future, a means to bre
                     <!--Donations List Single Start-->
                     <div class="donations-list__single">
                         <div class="row">
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__img">
                                     <img src="/assets/new/food.jpg" alt="">
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
@@ -241,12 +241,12 @@ Donating to Food for the Needy is a powerful way to make a positive impact on th
                     <!--Donations List Single Start-->
                     <div class="donations-list__single">
                         <div class="row">
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__img">
                                     <img src="assets/images/resources/donations-list-img-4.jpg" alt="">
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
@@ -273,12 +273,12 @@ Donating for medical causes has the power to save lives, alleviate suffering, an
                     <!--Donations List Single Start-->
                     <div class="donations-list__single">
                         <div class="row">
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__img">
                                     <img src="assets/images/resources/donations-list-img-5.jpg" alt="">
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6">
+                            <div class="col-xl-12 col-lg-12">
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
