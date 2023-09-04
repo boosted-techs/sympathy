@@ -20,16 +20,17 @@ include "parts/header.php";
 
 <!--About Four End-->
  <!--About Two Start-->
- <section class="about-two">
+ <section class="about-two" >
             <div class="container">
                 <div class="row">
                    
-                    <div class="col-xl-12 " style="margin-top: 100px;">
+                    <div class="col-xl-12 " style="margin-top: 20px;">
                         <div class="about-four__right">
                                 <!-- <div class="section-title text-left">
                                     <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
                                     <h2 class="section-title__title">Restoring Dignity and Hope in African Communities</h2>
                                 </div> -->
+                                <h2 class="section-title__title">Who we are.</h2>
                                 <p class="about-two__text-1">Sympathy Africa is a group of Sympathetic individuals who recognized the untapped potential of Africa's young girls and women. Guided by a profound sense of compassion and determination, this remarkable organization was established with the purpose of creating a brighter future, one where education is a fundamental right, and empowerment is the key to unlocking the continent's boundless opportunities.</p>
                                 <h2 class="section-title__title">Our commitment</h2>    
              <p class="about-four__text">
@@ -55,14 +56,14 @@ With our mission to be a beacon for young girls' education and women empowerment
                                 </li>
                             </ul>
                            
-                            <a href="/our-team" class="thm-btn about-two__btn">Meet our Team</a>
+                           
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="about-two" >
+        <section class="about-two"  style="margin-top:-100px">
     <div class="container" >
         <div class="row">
        
@@ -70,7 +71,7 @@ With our mission to be a beacon for young girls' education and women empowerment
             <div class="col-xl-12 pb-4">
                 <div class="about-four__right">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
+                        <span class="section-title__tagline">Empowering Dreams, Transforming Lives</span>
                         <h2 class="section-title__title">Our Story</h2>
                     </div>
                     <p class="about-four__text">
@@ -89,6 +90,7 @@ With our mission to be a beacon for young girls' education and women empowerment
 
 
 </p>
+<a href="/our-team" class="thm-btn about-two__btn mt-5">Meet our Team</a>
                             
                 </div>
             </div>

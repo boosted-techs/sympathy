@@ -35,7 +35,7 @@ include "parts/header.php";
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
-                                        <p class="main-slider-two__sub-title">Empowering Dreams, Transforming Futures</p>
+                                        <p class="main-slider-two__sub-title">Empowering Dreams, Transforming Lives</p>
                                         <h2 class="main-slider-two__title">Unlocking Potential <br>Through Education and Empowerment</h2>
                                         <div class="main-slider-two__btn-box">
                                             <a href="/about-us" class="thm-btn main-slider-two__btn"> Discover more</a>
@@ -226,7 +226,7 @@ include "parts/header.php";
                     <div class="col-xl-6">
                         <div class="about-two__right">
                                 <div class="section-title text-left">
-                                    <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
+                                    <span class="section-title__tagline">Empowering Dreams, Transforming Lives</span>
                                     <h2 class="section-title__title">Restoring Dignity and Hope in African Communities</h2>
                                 </div>
                                 <p class="about-two__text-1">Sympathy Africa is dedicated to bringing positive change by providing education,
@@ -249,7 +249,7 @@ include "parts/header.php";
                                     </div>
                                     <div class="text">
                                                                                 <h4>Vision</h4>
-                                        <p>Empowering Dreams, Transforming Futures: A world where every young girl and woman stands as a beacon of strength, courage, and boundless potential.
+                                        <p>Empowering Dreams, Transforming Lives: A world where every young girl and woman stands as a beacon of strength, courage, and boundless potential.
                                         </p>                                    
                                     </div>
                                 </li>
