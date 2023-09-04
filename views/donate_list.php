@@ -126,7 +126,7 @@ Donate for clean water today;
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
-                                            <p>Education</p>
+                                            <p>Girl child education</p>
                                         </div>
                                         <h3 class="donations-list__title"><a href="/donate">
 Girl child education                                               </a>
@@ -193,11 +193,11 @@ Donating for girl child education is an investment in the future, a means to bre
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
-                                            <p>Food</p>
+                                            <p>Food for The Needy</p>
                                         </div>
                                         <h3 class="donations-list__title"><a href="/donate">Food for The Needy
 
-                                                Food</a></h3>
+                                                </a></h3>
                                         <p class="donations-list__text">
                                         Donating for Food for the Needy is a noble endeavor that aims to alleviate hunger and provide sustenance to individuals and communities in need. This initiative recognizes that access to nutritious food is a fundamental right, and through generous contributions, it strives to make a positive impact on the lives of those facing food insecurity.
 <br/><b>About Food for the Needy:</b> Food for the Needy is a global program dedicated to eradicating hunger and promoting the well-being of vulnerable populations. With a commitment to ensuring that no one goes to bed hungry, Food for the needy operates through a network of volunteers, donors, and partner organizations.
@@ -223,7 +223,7 @@ Donating for girl child education is an investment in the future, a means to bre
                                             </h3>
                                             <p class="donations-list__text">
                                          
-<br/>Through its dedicated efforts and the support of donors, Food for the Needy has achieved remarkable impact:
+Through its dedicated efforts and the support of donors, Food for the Needy has achieved remarkable impact:
 Millions of meals are served every Sunday to street kids and individuals with in central communities, ensuring they receive sustenance and hope.
 <br/>The program focus on nutritious meals helps improve the overall health and well-being of recipients, particularly children and the elderly.
 <br/>Food for the Needy initiatives often serve as community hubs, fostering connections and support networks among volunteers and beneficiaries.
@@ -250,7 +250,7 @@ Donating to Food for the Needy is a powerful way to make a positive impact on th
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
-                                            <p>Medical</p>
+                                            <p>Medical Causes for positive impact</p>
                                         </div>
                                         <h3 class="donations-list__title"><a href="/donate">Medical Causes for positive impact</a></h3>
                                         <p class="donations-list__text">Donating to medical causes is a noble and impactful way to contribute to the well-being of individuals and communities. Medical donations encompass a wide range of areas, from supporting research and development of new treatments to providing medical supplies and aiding underserved populations' access to healthcare services. 
@@ -282,7 +282,7 @@ Donating for medical causes has the power to save lives, alleviate suffering, an
                                 <div class="donations-list__right">
                                     <div class="donations-list__content">
                                         <div class="donations-list__category">
-                                            <p>Nutrition</p>
+                                            <p>Nutrition and Agriculture</p>
                                         </div>
                                         <h3 class="donations-list__title"><a href="/donate">Donate for Nutrition and Agriculture Program</a></h3>
                                         <p class="donations-list__text">The Donate for Nutrition and Agriculture Program is a comprehensive initiative aimed at addressing the pressing issues of nutrition and agricultural development in vulnerable communities. This program operates with the understanding that access to proper nutrition and sustainable agricultural practices are fundamental for lifting communities out of poverty, ensuring food security, and promoting overall well-being. By donating to this program, you're contributing to a more sustainable and nourished future for those in need.</p>

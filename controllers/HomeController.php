@@ -48,4 +48,8 @@ class HomeController extends BaseController {
     function shop() {
         $this->view->render("shop");
     }
+
+    function health_program (){
+        $this->view->render("programs/health_progam");
+    }
 }

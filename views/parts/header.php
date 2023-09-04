@@ -75,7 +75,7 @@
                     <div class="main-menu-two__wrapper-inner">
                         <div class="main-menu-two__left">
                             <div class="main-menu-two__logo" style="object-fit:contain">
-                                <a href="/"><img src="/assets/new/header.png" alt="" style="width:200px; height:100px; object-fit:contain"></a>
+                                <a href="/"><img src="/assets/new/logo-2.png" alt=""></a>
                             </div>
                             <div class="main-menu-two__shape-1 float-bob-x">
                                 <img src="/assets/images/shapes/main-menu-shape-1.png" alt="">
@@ -153,7 +153,7 @@
                                             <ul>
                                                 <li><a href="/programs/women-empowement">WOMEN EMPOWERMENT</a></li>
                                                 <li><a href="/programs/girl-child">GIRL CHILD EDUCATION</a></li>
-                                                <li><a href="#">HEALTH PROGRAM</a></li>
+                                                <li><a href="/programs/health-program">HEALTH PROGRAM</a></li>
                                                 
                                                
                                             </ul>
@@ -164,11 +164,11 @@
                                             <ul>
                                           
                                                
-                                                <li><a href="/programs/digital-skills">NUTRITION & AGRICULTURE</a></li>
-                                                <li><a href="/programs/nutriotion">DIGITAL SKILLS TRAINING</a></li>
+                                                <li><a href="/projects/nutriotion">NUTRITION & AGRICULTURE</a></li>
+                                                <li><a href="/projects/digital-skills">DIGITAL SKILLS TRAINING</a></li>
                                                 <li>
-                                                    <a href="/programs/women-empowement">YOUTH MENTORSHIP </a></li>
-                                               <li> <a href="/programs/women-empowement">CLEAN WATER PROJECT</a></li>
+                                                    <a href="#">YOUTH MENTORSHIP </a></li>
+                                               <li> <a href="#">CLEAN WATER PROJECT</a></li>
                                                
                                             </ul>
 

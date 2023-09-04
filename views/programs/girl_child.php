@@ -11,7 +11,7 @@ include "views/parts/header.php";
                         <div class="donation-details__img">
                             <img src="/assets/new/Girls_Education-530x354.jpeg" alt="">
                             <div class="donation-details__date">
-                                <p>Education</p>
+                                <p>Girl Child Education</p>
                             </div>
                         </div>
                         <div class="donation-details__content">

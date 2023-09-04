@@ -5,118 +5,60 @@ include "views/parts/header.php";
 <section class="donation-details">
     <div class="container">
         <div class="row">
-            <div class="col-xl-8 col-lg-7">
+            <div class="col-xl-12 col-lg-12">
                 <div class="donation-details__left">
                     <div class="donation-details__top">
                         <div class="donation-details__img">
-                            <img src="assets/images/resources/donation-details-img-3.jpg" alt="">
+                            <img src="/assets/new/digital-skills.jpeg" alt="">
                             <div class="donation-details__date">
-                                <p>Education</p>
+                                <p>Digital skills training</p>
                             </div>
                         </div>
                         <div class="donation-details__content">
                             <h3 class="donation-details__title">Empowering Through Digital Skilling</h3>
-                            <p class="donation-details__text">At Sympathy Africa, we recognize the importance of digital skills in today's world. Our Digital Skilling Program aims to provide individuals in Africa with the necessary skills to thrive in the digital age. By equipping them with coding, programming, and technology skills, we're enabling them to access new opportunities, enhance employability, and contribute to innovation.</p>
+                            <p class="donation-details__text">
+                            In today's fast-paced and technology-driven world, digital skills have become an essential aspect of personal and professional development. With Sympahty Africa, empowering young individuals with these skills is not just about ensuring their future success, but also about fostering a sense of self-confidence and resilience.
+<br/>We recognize the need to equip the youth they support with the tools necessary to navigate this new terrain by providing digital skills training.
+<br/>
+Digital skills encompass a wide range of abilities, from basic computer literacy to more advanced skills such as coding, graphic design, data analysis, and social media management.
+We play a crucial role in introducing these skills to their beneficiaries, regardless of their background or prior exposure to technology. Such training not only enhances their employability but also opens doors to entrepreneurial opportunities.
+                            </p>
+
+                        <h3 class="donation-details__title">Objectives</h3>
+                        <p class="donation-details__text">
+1. Training to rebuild self-confidence
+<br/>2. To encourage critical thinking
+<br/>3. To foster independence and realize more effective communication.
+<br/>4. Equip beneficiaries with social and interpersonal skills that enables them to cope with the demands that come their way in everyday life.
+
+                        </p>
+                        <h3 class="donation-details__title">Other Activities</h3>
+                        <p class="donation-details__text">
+1. Critical thinking and communication
+<br/>2. Focus and self-control
+<br/>3. Coping with stress and emotions
+<br/>4. Decision making Taking on challenges
+<br/>5. Confectionery services
+<br/>6. Hair styling/dressing/braiding.
+<br/>7. Tailoring and mechanics.
+
+                        </p>
+                        <h3 class="donation-details__title">Monitoring & Evaluation</h3>
+                        <p class="donation-details__text">
+                        To track current levels to life skills, Sympathy Africa through formative evaluation and continues assessment progress is able follow up progress amongst the children. Other ways include;
+
+<br/>1. Assessing behavior change
+<br/>2. Observation
+<br/>3. Questionnaires
+<br/>4. Projects
+
+
+                        </p>
+                        
                         </div>
                     </div>
-                    <div class="donation-details__donate">
-                        <div class="donation-details__donate-shape"
-                            style="background-image: url(assets/images/shapes/donation-details-donate-shape.png);">
-                        </div>
-                        <div class="donation-details__donate-left">
-                            <ul class="list-unstyled donation-details__donate-list">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-solidarity"></span>
-                                    </div>
-                                    <div class="text">
-                                        <span>Raised</span>
-                                        <p>$14,800</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-target-1"></span>
-                                    </div>
-                                    <div class="text">
-                                        <span>Goal</span>
-                                        <p>$20,000</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="donation-details__donate-btn">
-                            <a href="donate-now.html" class="thm-btn">Donate now</a>
-                        </div>
-                    </div>
-                    <div class="donation-details__summary">
-                        <h3 class="donation-details__summary-title">Our Mission</h3>
-                        <p class="donation-details__summary-text-1">Sympathy Africa's Digital Skilling Program is committed to bridging the digital divide by providing accessible and high-quality technology education to individuals of all ages.</p>
-                        <ul class="list-unstyled donation-details__summary-list">
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Offering coding and programming courses.</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Equipping students with digital literacy skills.</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Empowering individuals for career advancement.</p>
-                                </div>
-                            </li>
-                        </ul>
-                        <p class="donation-details__summary-text-2">Your support will enable us to provide accessible learning resources, training workshops, and mentorship, ensuring that individuals across Africa can unlock their full potential in the digital world.</p>
-                    </div>
-                    <!-- Additional sections or details can be added here -->
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-5">
-                <div class="donation-details__sidebar">
-                    <div class="donation-details__organizer">
-                        <div class="sidebar-shape-1"
-                            style="background-image: url(assets/images/shapes/sidebar-shape-1.png);"></div>
-                        <div class="donation-details__organizer-img">
-                            <img src="assets/images/resources/donation-details-organizer-img.jpg" alt="">
-                        </div>
-                        <div class="donation-details__organizer-content">
-                            <p class="donation-details__organizer-date">Founded by Boosted Technologies LTD</p>
-                            <p class="donation-details__organizer-title">Organizer:</p>
-                            <p class="donation-details__organizer-name">Jane Smith</p>
-                            <ul class="list-unstyled donation-details__organizer-list">
-                                <li>
-                                    <div class="icon">
-                                        <span class="fas fa-tag"></span>
-                                    </div>
-                                    <div class="text">
-                                        <p>Digital Skilling</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="fas fa-map-marker-alt"></span>
-                                    </div>
-                                    <div class="text">
-                                        <p>Kampala, Uganda</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Additional sections or details can be added here -->
-                </div>
+
             </div>
         </div>
     </div>

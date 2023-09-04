@@ -5,7 +5,7 @@ include "views/parts/header.php";
 <section class="donation-details">
     <div class="container">
         <div class="row">
-            <div class="col-xl-8 col-lg-7">
+            <div class="col-xl-12 col-lg-12">
                 <div class="donation-details__left">
                     <div class="donation-details__top">
                         <div class="donation-details__img">
@@ -16,110 +16,58 @@ include "views/parts/header.php";
                         </div>
                         <div class="donation-details__content">
                             <h3 class="donation-details__title">Empowering Women for a Brighter Future</h3>
-                            <p class="donation-details__text">At Sympathy Africa, we are dedicated to promoting women's empowerment through education, skills training, and support programs. Our mission is to provide women in Africa with the tools and opportunities they need to achieve their full potential and contribute positively to society. By supporting our Women Empowerment Program, you are making a direct impact on the lives of countless women and their families.</p>
+                            <p class="donation-details__text">
+                            Sympathy Africa has risen up with income generating activity project to empower women to sustain themselves financially and improve their standard of living to avert 
+the current status of women in the issues that affect their lives. 
+<Br/>
+The aim of this project is to provide a self-sustainable source of income so as to meet the basic needs of life for instance food, clothing, shelter among others.
+<Br/>
+In many countries,women’s awareness and participation in the different aspects of life is nearly three times less than that of men (2006 research on ICT Africa) as they are referred to as 
+the “weaker sex” among the vulnerable groups. In Uganda, women are considered to be of lower class than men. It is for this reason that a majority of Ugandan women are discriminated 
+against, have limited access to education and low economic status.
+Furthermore, women face a number of challenges in their daily life which involves domestic violence where some are even battered to death and no action is taken, many are raped, cultural 
+practices like female genital mutilation which results into adverse effects, marital rape, low participation in decision making in homes among others.
+Interventions geared to improve the position of women in society and to enable them become financially independent have been employed to tackle the issue of gender discrimination with 
+the overall aim to bring about women empowerment in communities.
+<br/>
+Moreover, at regional level, it has been discovered that prevalence rates range from 4.1% to 10.6% in Mid-eastern region and Central region respectively. 
+These statistics show a need for development of interventions that can be implemented in order to tackle this issue.
+                        </p>
+
+
+                        <h3 class="donation-details__title">Objectives</h3>
+                        <p class="donation-details__text">
+1. Financial sustainability.
+<br/>2. Women are required to set up income generating businesses to acquire financial sustainability in return this helps them acquire assets like food, clothing, education among others.
+<br/>3. Acquisition of assets like land, construction of permanent structures, payment of school fees for their children hence restoration of a woman’s position in society
+<br/>4. Increased participation in politics and leadership in the community.
+<br/>5. To impart life sustaining skills so as to empower women.
+                        </p>
+                        
+
+<h3 class="donation-details__title">Activities</h3>
+<p class="donation-details__text">
+1. Training workshops to impart skills to the women in order to sustain their lives.
+<br/>2. Holding trade fare exhibition to display their products to capture the market.
+<br/>3. Linkage to relevant partners.
+<br/>4. Holding mentorship workshops.
+</p>
+
+<h3 class="donation-details__title">Monitoring & Evaluation</h3>
+<p class="donation-details__text">
+1. Field visits.
+<br/>2. Baseline surveys are made every after 6 months to find out how many have sustainable businesses.
+<br/>3. Data collection methodologies such as questionnaires, interviews, Participatory Rural Appraisal.
+</p>
                         </div>
                     </div>
-                    <div class="donation-details__donate">
-                        <div class="donation-details__donate-shape"
-                            style="background-image: url(/assets/images/shapes/donation-details-donate-shape.png);">
-                        </div>
-                        <div class="donation-details__donate-left">
-                            <ul class="list-unstyled donation-details__donate-list">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-solidarity"></span>
-                                    </div>
-                                    <div class="text">
-                                        <span>Raised</span>
-                                        <p>$25,270</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-target-1"></span>
-                                    </div>
-                                    <div class="text">
-                                        <span>Goal</span>
-                                        <p>$30,000</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="donation-details__donate-btn">
-                            <a href="/donate" class="thm-btn">Donate now</a>
-                        </div>
-                    </div>
-                    <div class="donation-details__summary">
-                        <h3 class="donation-details__summary-title">Our Mission</h3>
-                        <p class="donation-details__summary-text-1">Sympathy Africa is committed to creating a supportive environment where women can gain access to education, vocational training, and leadership opportunities.</p>
-                        <ul class="list-unstyled donation-details__summary-list">
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Empowering women through education.</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Providing skills training for economic independence.</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="fa fa-check"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Promoting gender equality and women's rights.</p>
-                                </div>
-                            </li>
-                        </ul>
-                        <p class="donation-details__summary-text-2">Your support will directly contribute to creating a brighter future for women in Africa. Together, we can empower women to break barriers, achieve their dreams, and make a positive impact on their communities.</p>
-                    </div>
-                    <!-- Additional sections or details can be added here -->
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-5">
-                <div class="donation-details__sidebar">
-                    <div class="donation-details__organizer">
-                        <div class="sidebar-shape-1"
-                            style="background-image: url(/assets/images/shapes/sidebar-shape-1.png);"></div>
-                        <div class="donation-details__organizer-img">
-                            <img src="/assets/images/resources/donation-details-organizer-img.jpg" alt="">
-                        </div>
-                        <div class="donation-details__organizer-content">
-                            <p class="donation-details__organizer-date">Founded by Boosted Technologies LTD</p>
-                            <p class="donation-details__organizer-title">Organizer:</p>
-                            <p class="donation-details__organizer-name">John Doe</p>
-                            <ul class="list-unstyled donation-details__organizer-list">
-                                <li>
-                                    <div class="icon">
-                                        <span class="fas fa-tag"></span>
-                                    </div>
-                                    <div class="text">
-                                        <p>Women Empowerment</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="fas fa-map-marker-alt"></span>
-                                    </div>
-                                    <div class="text">
-                                        <p>Kampala, Uganda</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Additional sections or details can be added here -->
+                    
+                  
                 </div>
             </div>
         </div>
     </div>
+ 
 </section>
 <!-- Donation Details End -->
 
