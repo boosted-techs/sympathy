@@ -1,6 +1,12 @@
 <?php
 include "parts/header.php";
 ?>
+<style>
+    .testimonial-two__text {
+        font-size: 12px;
+        line-height: 20px;
+    }
+</style>
 <section class="page-header">
             <div class="page-header-bg" style="background-image: url(/assets/images/backgrounds/page-header-bg.jpg)">
             </div>

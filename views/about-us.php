@@ -26,6 +26,7 @@ include "parts/header.php";
                    
                     <div class="col-xl-12 " style="margin-top: 20px;">
                         <div class="about-four__right">
+                            <img src="/assets/new/original-logo.png" style="width: 200px; height:200px; object-fit:contain"/>
                                 <!-- <div class="section-title text-left">
                                     <span class="section-title__tagline">Empowering Dreams, Transforming Futures</span>
                                     <h2 class="section-title__title">Restoring Dignity and Hope in African Communities</h2>
@@ -37,24 +38,7 @@ include "parts/header.php";
              Through our programs like Women Empowerment, Health care, Girl child education and numerous projects i.e. Nutrition and Agriculture, Digital skills & training clean water, and youth mentorship, we have managed to achieve greater milestone in improving the livelihood of our communities. 
 With our mission to be a beacon for young girls' education and women empowerment, our vision has been clear to empower women for the future.
              </p>
-                            <ul class="list-unstyled about-two__points">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-target"></span>
-                                    </div>
-                                    <div class="text">
-                                                                            <h4>Our mission</h4>
-<p>To foster a world where girls and women are celebrated for their strength, wisdom, and potential through a journey of empowerment to leadership. We strive to break down barriers, provide education, healthcare and support services ensuring that women and girl child can her full potential and contribute positively to the society..</p>                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-solidarity-1"></span>
-                                    </div>
-                                    <div class="text">
-                                                                                <h4>Vision</h4>
-<p>Empowering Dreams, Transforming Lives: We envision world where women and girl child stands as a beacon of strength, courage, and boundless potential. Through collaborative efforts, advocacy, and holistic support on a global scale. </p>                                        </p>                                    
-                                    </div>
-                                </li>
-                            </ul>
+                            
                            
                            
                         </div>

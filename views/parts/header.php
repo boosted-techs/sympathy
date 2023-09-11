@@ -74,8 +74,11 @@
                 <div class="main-menu-two__wrapper">
                     <div class="main-menu-two__wrapper-inner">
                         <div class="main-menu-two__left">
-                            <div class="main-menu-two__logo" style="object-fit:contain">
-                                <a href="/"><img src="/assets/new/logo-2.png" alt=""></a>
+                            <div class="main-menu-two__logo">
+                               
+                                <a href="/"><img src="/assets/new/header.png" alt="" style="width: 150px; height: 50px; object-fit:cover"></a>
+                             
+                            
                             </div>
                             <div class="main-menu-two__shape-1 float-bob-x">
                                 <img src="/assets/images/shapes/main-menu-shape-1.png" alt="">
@@ -163,16 +166,14 @@
                                             <a href="/#">Projects</a>
                                             <ul>
                                           
-                                               
                                                 <li><a href="/projects/nutriotion">NUTRITION & AGRICULTURE</a></li>
                                                 <li><a href="/projects/digital-skills">DIGITAL SKILLS TRAINING</a></li>
                                                 <li>
-                                                    <a href="#">YOUTH MENTORSHIP </a></li>
-                                               <li> <a href="#">CLEAN WATER PROJECT</a></li>
+                                                    <a href="/projects/youth-mentorship">YOUTH MENTORSHIP </a></li>
+                                               <li> <a href="/projects/clean-water">CLEAN WATER PROJECT</a></li>
                                                
                                             </ul>
-
-                                            
+   
                                         </li>
                                         <li class="">
                                             <a href="/get-involved">Get invovled</a>

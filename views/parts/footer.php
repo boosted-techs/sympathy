@@ -140,7 +140,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                         </div>
                                         <div class="text">
                                             <p><a href="tel:256780788933">+256780788933</a></p>
-                                            <p><a href="tel:+256706567546">+256706567546</a></p>
+                                            <p><a href="tel:+447405274147">+44 7405 274147</a></p>
                                         </div>
                                     </li>
                                 </ul>
@@ -195,7 +195,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:256780788933">256780788933</a>
+                    <a href="tel:+447405274147">+44 7405 274147</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">

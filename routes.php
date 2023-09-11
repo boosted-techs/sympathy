@@ -19,5 +19,8 @@ $routes = array(
     "/our-team" => "HomeController@our_team",
     "/donate-list" => "HomeController@donate_list",
     "/shop" => "HomeController@shop",
-    "/programs/health-program" => "HomeController@health_program"
+    "/programs/health-program" => "HomeController@health_program",
+    "/projects/clean-water" =>  "HomeController@cleanWater",
+    "/projects/youth-mentorship" => "HomeController@youthMentorship",
+    "/send-mail" => "HomeController@sendEmail"
     );

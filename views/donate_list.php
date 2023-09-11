@@ -97,17 +97,7 @@ include "parts/header.php";
                                     In disaster-stricken areas, your donation can provide emergency clean water supplies to affected populations, ensuring their immediate needs are met during crises.                                </div>
                             </li>
                                         </ul>
-                                        <h3 class="donation-details__summary-title">
-                                            How to donate
-                                        </h3>
-                                   <div class="text" >
-                                    <p>
-                                 
-Transparency and Accountability:
-We are committed to transparency in our operations. Regular updates, reports, and financial statements are provided to our donors, showcasing the impact of their contributions and how funds are being utilized.
-Your donation, no matter the size, can bring us one step closer to a world where everyone has access to clean and safe water. Join us in our mission to make clean water a reality for all.
-Donate for clean water today;
-                                    </p>
+                                        <a href="/donate-now" class="thm-btn about-two__btn mt-5">Donate now</a>
                                    </div>                            </div>
                                 </div>
                             </div>
@@ -174,6 +164,7 @@ Challenges Faced                                              </a>
                 <b>Conclusion</b><br/>
 Donating for girl child education is an investment in the future, a means to break down barriers, and a pathway to gender equality. By enabling girls to access quality education, we contribute to building a brighter and more equitable world, where every girl can realize her full potential and become a catalyst for positive change.
                 </p>
+                <a href="/donate-now" class="thm-btn about-two__btn mt-5">Donate now</a>
                                     </div>
 
                                 </div>
@@ -232,6 +223,7 @@ Donating to Food for the Needy is a powerful way to make a positive impact on th
 
 
                                             </p>
+                                            <a href="/donate-now" class="thm-btn about-two__btn mt-5">Donate now</a>
                                     </div>
                                 </div>
                             </div>
@@ -255,16 +247,12 @@ Donating to Food for the Needy is a powerful way to make a positive impact on th
                                         <h3 class="donations-list__title"><a href="/donate">Medical Causes for positive impact</a></h3>
                                         <p class="donations-list__text">Donating to medical causes is a noble and impactful way to contribute to the well-being of individuals and communities. Medical donations encompass a wide range of areas, from supporting research and development of new treatments to providing medical supplies and aiding underserved populations' access to healthcare services. 
                                             </p>
-                                            <h3 class="donations-list__title"><a href="/donate">How to donate</a></h3>
-                                        <p class="donations-list__text">
-                                        •	Contributing funds can support medical causes. Your financial donation can be directed toward various areas such as medical equipment purchase, patient care, and more.
-	<br/>•	Donating medications, particularly those that are unexpired and in good condition, can be immensely valuable to organizations providing medical care in underserved areas.
-
-
+                                           
 <Br/><b>Conclusion</b><br/>
 Donating for medical causes has the power to save lives, alleviate suffering, and drive progress in healthcare. Whether it's through financial contributions, medical supplies, or volunteering your time, your support can make a significant impact on individuals, communities, and the broader field of medicine. 
 
                                         </p>
+                                        <a href="/donate-now" class="thm-btn about-two__btn mt-5">Donate now</a>
                                 </div>
                             </div>
                         </div>
@@ -314,6 +302,7 @@ Donating for medical causes has the power to save lives, alleviate suffering, an
                                        <b>Conclusion</b><br/>
 The Donate for Nutrition and Agriculture Program is a holistic approach to addressing both immediate and long-term challenges related to nutrition, agriculture, and community well-being. Your donation can make a significant difference in ensuring that vulnerable communities have access to nutritious food and the knowledge needed for sustainable agricultural development. Join us in creating a future where no one has to suffer from hunger or food insecurity.
                                        </p>
+                                       <a href="/donate-now" class="thm-btn about-two__btn mt-5">Donate now</a>
                                     </div>
                                 </div>
                             </div>

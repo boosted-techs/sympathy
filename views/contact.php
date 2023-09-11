@@ -11,8 +11,9 @@ include "parts/header.php";
                     <h2 class="section-title__title">Feel free to write us <br> anytime</h2>
                 </div>
                 <div class="contact-page__form-box">
-                    <form action="https://layerdrops.com/oxpinshtml/main-html/assets/inc/sendemail.php" class="contact-page__form contact-form-validated"
-                        novalidate="novalidate">
+                <div class="result"></div>
+                    <form action="/send-mail" class="contact-page__form contact-form-validated"
+                         method="post">
                         <div class="row">
                             <div class="col-xl-6">
                                 <div class="contact-form__input-box">
@@ -77,7 +78,7 @@ include "parts/header.php";
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">SEND EMAIL</p>
                                 <h3 class="contact-one__number"><a
-                                        href="mailto:needhelp@company.com">Sympathy.africa@yahoo.com</a></h3>
+                                        href="mailto:Info@sympathyafrica.org">Info@sympathyafrica.org</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">

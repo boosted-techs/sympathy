@@ -254,7 +254,7 @@ include "parts/header.php";
                                     </div>
                                 </li>
                             </ul>
-                            <div class="about-two__progress">
+                            <!-- <div class="about-two__progress">
                                 <div class="about-two__progress-single">
                                     <h4 class="about-two__progress-title">Charity</h4>
                                     <div class="bar">
@@ -271,7 +271,7 @@ include "parts/header.php";
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <a href="/about-us" class="thm-btn about-two__btn">Discover More</a>
                         </div>
                     </div>
@@ -366,12 +366,12 @@ include "parts/header.php";
                         <div class="urgent-cause__top-right">
                             <p class="urgent-cause__top-text">if you want a detail for this click this button now</p>
                             <div class="urgent-cause__btn">
-                                <a href="donate-now.html"> <span class="fa fa-heart"></span>Donate now</a>
+                                <a href="/donate-now"> <span class="fa fa-heart"></span>Donate now</a>
                             </div>
                             <p class="urgent-cause__date">10 July 2022</p>
                         </div>
                     </div>
-                    <div class="urgent-cause__progress">
+                    <!-- <div class="urgent-cause__progress">
                         <div class="bar">
                             <div class="bar-inner count-bar" data-percent="70%">
                                 <div class="count-text">70%</div>
@@ -381,21 +381,21 @@ include "parts/header.php";
                             <p><span>$28,000.00</span> Donated</p>
                             <p><span>$80,000.00</span> Goal</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
         <!--Urgent Cause End-->
 
         <!--Team One Start-->
-        <section class="team-one">
+        <!-- <section class="team-one">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Our expert team</span>
                     <h2 class="section-title__title">Meet the team behind <br> their success story</h2>
                 </div>
                 <div class="row">
-                    <!--Team One Single Start-->
+                    Team One Single Start
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
@@ -408,18 +408,18 @@ include "parts/header.php";
                             </div>
                         </div>
                     </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
+                   
+                 
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="/assets/new/angel-vice.jpg" alt="">
-                                <!-- <div class="team-one__social">
+                               
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
                                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div> -->
+                                </div> 
                             </div>
                             <div class="team-one__content">
                                 <h3 class="team-one__name"><a href="#">Angel Nakirijja</a></h3>
@@ -427,8 +427,7 @@ include "parts/header.php";
                             </div>
                         </div>
                     </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
+           
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
@@ -441,8 +440,7 @@ include "parts/header.php";
                             </div>
                         </div>
                     </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
+
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
@@ -455,13 +453,11 @@ include "parts/header.php";
                             </div>
                         </div>
                     </div>
-                    <!--Team One Single End-->
+                 
                 </div>
             </div>
-        </section>
-        <!--Team One End-->
-
-        <!--Google Map Start-->
+        </section> -->
+      
         <section class="google-map">
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.256401275712!2d31.983333599999995!3d0.0833333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d5d8e76e926eb%3A0x5fd5d85418e1d4b0!2sBwala!5e0!3m2!1sen!2sug!4v1692631682407!5m2!1sen!2sug"
@@ -490,7 +486,7 @@ include "parts/header.php";
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">SEND EMAIL</p>
                                 <h3 class="contact-one__number"><a
-                                        href="mailto:needhelp@company.com">Sympathy.africa@yahoo.com</a></h3>
+                                        href="mailto:Info@sympathyafrica.org">Info@sympathyafrica.org</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">
