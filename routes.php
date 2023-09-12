@@ -22,5 +22,6 @@ $routes = array(
     "/programs/health-program" => "HomeController@health_program",
     "/projects/clean-water" =>  "HomeController@cleanWater",
     "/projects/youth-mentorship" => "HomeController@youthMentorship",
-    "/send-mail" => "HomeController@sendEmail"
+    "/send-mail" => "HomeController@sendEmail",
+    "/volunteer" => "HomeController@volunteer"
     );

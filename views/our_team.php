@@ -28,6 +28,14 @@ include "parts/header.php";
                     <span class="section-title__tagline">Our Team</span>
                     <h2 class="section-title__title">Meet our dedicated Team</h2>
                 </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="/assets/new/sympathy.jpeg" class="w-100 img-thumbnail shadow-sm" alt="">
+                    </div>
+                    <div class="col-md-6">
+                        <img src="/assets/new/sympathya.jpeg" class="w-100 img-thumbnail shadow-sm" alt=""> 
+                    </div>
+                </div>
                 <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
                     "autoplay": true,
@@ -150,7 +158,7 @@ she has been actively involved in various initiatives aimed at educating youth o
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                                <img src="/assets/new/original-logo.png" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
@@ -171,7 +179,7 @@ A passionate advocate of women’s empowerment, she is keen on collaborative spa
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                                <img src="/assets/new/original-logo.png" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"

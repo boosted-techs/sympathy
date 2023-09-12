@@ -88,4 +88,8 @@ class HomeController extends BaseController
         $e = "no-reply@sympathyafrica.org";
         $pwd = "?[k*oBuAcwEg";
     }
+
+    function volunteer (){
+        print_r($_POST);
+    }
 }

@@ -72,11 +72,11 @@
         <header class="main-header-two">
             <nav class="main-menu main-menu-two">
                 <div class="main-menu-two__wrapper">
-                    <div class="main-menu-two__wrapper-inner">
-                        <div class="main-menu-two__left">
-                            <div class="main-menu-two__logo">
+                    <div class="main-menu-two__wrapper-inner bg-white">
+                        <div class="main-menu-two__left bg-white">
+                            <div class="main-menu-two__logo bg-white">
                                
-                                <a href="/"><img src="/assets/new/header.png" alt="" style="width: 150px; height: 50px; object-fit:cover"></a>
+                                <a href="/"><img src="/assets/new/logo.png" alt=""></a>
                              
                             
                             </div>
@@ -192,10 +192,10 @@
                                 </div>
                                 <div class="main-menu-two__main-menu-content-box">
                                     <div class="main-menu-two__search-cat-btn-box">
-                                        <div class="main-menu-two__search-box" style="margin-left: 10px;">
+                                        <!-- <div class="main-menu-two__search-box" style="margin-left: 10px;">
                                             <a href="#"
                                                 class="main-menu-two__search search-toggler icon-magnifying-glass"></a>
-                                        </div>
+                                        </div> -->
                                         <div class="text-dark"  style="margin-left:10px">
                                             <a href="/shop" class="main-menu__cart icon-shopping-cart text-dark"></a>
                                         </div>

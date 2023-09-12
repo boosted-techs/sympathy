@@ -160,7 +160,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© All Copyright 2023 by <a href="i">Sympathy Africa</a>
+                                <p class="site-footer__bottom-text">© All Copyright 2023 by <a href="#">Sympathy Africa</a>
                                 </p>
                             </div>
                         </div>

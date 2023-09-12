@@ -59,7 +59,7 @@ include "parts/header.php";
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="become-volunteer-page__right">
-                    <form class="become-volunteer-page__form">
+                    <form class="become-volunteer-page__form" method="post" action="/volunteer">
                         <div class="row">
                             <div class="col-xl-12">
                                 <div class="become-volunteer-page__input">
