@@ -21,7 +21,7 @@ include "views/parts/header.php";
 
                      
                         <p class="donation-details__text">
-                        The digital divide refers to the gap between those who have access to digital technologies and the internet and those who do not. Poor communities for example Mawokota Kibaga , often lacking essential infrastructure and resources, are disproportionately affected by this divide. Here are some key reasons why addressing the digital divide is essential:
+                        <!-- The digital divide refers to the gap between those who have access to digital technologies and the internet and those who do not. Poor communities for example Mawokota Kibaga , often lacking essential infrastructure and resources, are disproportionately affected by this divide. Here are some key reasons why addressing the digital divide is essential: -->
                             <br/><br/>
                             	Building Confidence and Self-Esteem
 One of the primary benefits of Sympathy Africa girl youth mentorship is the boost it gives to confidence and self-esteem. Many young girls face societal pressures and stereotypes that can erode their self-belief. A mentor serves as a role model and a source of encouragement, helping girls recognize their worth and potential. Through positive reinforcement and guidance, mentors empower girls to embrace their uniqueness and believe in their abilities.
