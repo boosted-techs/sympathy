@@ -22,18 +22,18 @@ include "views/parts/header.php";
                      
                         <p class="donation-details__text">
                         The digital divide refers to the gap between those who have access to digital technologies and the internet and those who do not. Poor communities for example Mawokota Kibaga , often lacking essential infrastructure and resources, are disproportionately affected by this divide. Here are some key reasons why addressing the digital divide is essential:
-                            <br/>
-                            •	Building Confidence and Self-Esteem
+                            <br/><br/>
+                            	Building Confidence and Self-Esteem
 One of the primary benefits of Sympathy Africa girl youth mentorship is the boost it gives to confidence and self-esteem. Many young girls face societal pressures and stereotypes that can erode their self-belief. A mentor serves as a role model and a source of encouragement, helping girls recognize their worth and potential. Through positive reinforcement and guidance, mentors empower girls to embrace their uniqueness and believe in their abilities.
-<br/>•	Developing Leadership Skills
+<br/><br/>	Developing Leadership Skills
 Girl youth mentorship programs offer a platform for girls to develop leadership skills that will serve them well throughout their lives. Mentors provide opportunities for girls to take on leadership roles, make decisions, and engage in projects that build their leadership capabilities. These experiences help girls become more self-assured and capable of taking charge in various aspects of their lives, from academics to extracurricular activities.
-<br/>•	Fostering Educational Excellence
+<br/><br/>	Fostering Educational Excellence
 Mentorship programs often place a strong emphasis on education. Mentors can provide academic support, helping girls set and achieve educational goals. They can offer guidance on study habits, time management, and career planning. By emphasizing the importance of education, girl youth mentorship programs inspire girls to excel academically, opening doors to a broader range of opportunities.
-<br/>•	Empowering Through Role Models
+<br/><br/>Empowering Through Role Models
 Mentors serve as real-life examples of what girls can achieve. When girls see women who have succeeded in various fields and faced similar challenges, they are more likely to believe that they can do the same. This exposure to diverse role models expands their horizons and encourages them to dream big, breaking down traditional gender barriers.
-<br/>•	Providing Emotional Support
+<br/><br/>	Providing Emotional Support
 Growing up can be emotionally challenging, and girls often face unique pressures and expectations. Mentors provide a safe and nonjudgmental space for girls to express their feelings, fears, and aspirations. This emotional support can make a significant difference in a girl's ability to cope with stress and adversity, promoting mental and emotional well-being.
-<br/>•	Promoting Positive Life Choices
+<br/><br/>	Promoting Positive Life Choices
 Mentorship programs guide girls in making positive life choices. Mentors can discuss important topics such as self-respect, healthy relationships, and the importance of making informed decisions. By offering guidance and imparting valuable life lessons, mentors help girls make choices that will contribute to their long-term happiness and success.
                         </p>
                       
