@@ -67,12 +67,6 @@ With our mission to be a beacon for young girls' education and women empowerment
 <Br/>5. To indentify opportunities through collaboration with other organisations and sympathetic people to actualise the above objectves.
            </p>   
 <p class="about-four__text">
-<Br/>
-Through our programs like Women Empowerment, Health care, Girl child education and numerous projects i.e. Nutrition and Agriculture, Digital skills & training clean water, and youth mentorship, we have managed to achieve greater milestone in improving the livelihood of our communities. 
-With our mission to be a beacon for young girls' education and women empowerment, our vision has been clear to empower women for the future.
-
-
-
 </p>
 <a href="/our-team" class="thm-btn about-two__btn mt-5">Meet our Team</a>
                             

@@ -96,7 +96,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                 <h3 class="footer-widget__title">LINKS</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
                                     <li><a href="/about-us">About us</a></li>
-                                                                    <li><a href="/team">Our Team</a></li>
+                                                                    <li><a href="/our-team">Our Team</a></li>
                                     <li><a href="/contact-us">Contact</a></li>
                                     <li><a href="/get-involved">Volunteer</a></li>
                                     <li><a href="/donate">Donate</a></li>
@@ -110,7 +110,7 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                 <h3 class="footer-widget__title">OUR PROGRAMS</h3>
                                 <ul class="footer-widget__non-profit-list list-unstyled clearfix">
                                 <li><a href="/programs/women-empowement">Women Empowerment</a></li>
-                                <li><a href="#">Health</a></li>
+                                <li><a href="/programs/health-program">Health</a></li>
                                                 <li><a href="/programs/girl-child">Girl child education</a></li>
 
                                                 <li><a href="/programs/digital-skills">Digital Skills Training</a></li>

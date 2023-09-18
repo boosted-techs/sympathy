@@ -36,7 +36,7 @@ include "parts/header.php";
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
                                         <p class="main-slider-two__sub-title">Empowering Dreams, Transforming Lives</p>
-                                        <h2 class="main-slider-two__title">Unlocking Potential <br>Through Education and Empowerment</h2>
+                                        <h2 class="main-slider-two__title">Alleviating suffering from women through empowement.</h2>
                                         <div class="main-slider-two__btn-box">
                                             <a href="/about-us" class="thm-btn main-slider-two__btn"> Discover more</a>
                                         </div>
@@ -63,7 +63,7 @@ include "parts/header.php";
                                 <div class="col-xl-12">
                                     <div class="main-slider-two__content">
                                         <p class="main-slider-two__sub-title">Restoring Dignity, Inspiring Change</p>
-                                        <h2 class="main-slider-two__title">Creating Brighter Tomorrow <br> for African Communities</h2>
+                                        <h2 class="main-slider-two__title">Creating a brighter Tomorrow for the Girl Child.</h2>
                                         <div class="main-slider-two__btn-box">
                                             <a href="/about-us" class="thm-btn main-slider-two__btn"> Discover more</a>
                                         </div>
@@ -368,7 +368,7 @@ include "parts/header.php";
                             <div class="urgent-cause__btn">
                                 <a href="/donate-now"> <span class="fa fa-heart"></span>Donate now</a>
                             </div>
-                            <p class="urgent-cause__date">10 July 2022</p>
+                           
                         </div>
                     </div>
                     <!-- <div class="urgent-cause__progress">

@@ -29,12 +29,12 @@ include "parts/header.php";
                     <h2 class="section-title__title">Meet our dedicated Team</h2>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 mx-auto" style="margin-bottom:50px">
                         <img src="/assets/new/sympathy.jpeg" class="w-100 img-thumbnail shadow-sm" alt="">
                     </div>
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <img src="/assets/new/sympathya.jpeg" class="w-100 img-thumbnail shadow-sm" alt=""> 
-                    </div>
+                    </div> -->
                 </div>
                 <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
