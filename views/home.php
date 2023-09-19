@@ -360,11 +360,11 @@ include "parts/header.php";
                         <div class="urgent-cause__top-left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Donate to urgent cause</span>
-                                <h2 class="section-title__title">Support for eating funds <br> for hungry people</h2>
+                                <h2 class="section-title__title">Through your support we feed the<br>hungry and transform lives.</h2>
                             </div>
                         </div>
                         <div class="urgent-cause__top-right">
-                            <p class="urgent-cause__top-text">if you want a detail for this click this button now</p>
+                            <p class="urgent-cause__top-text">For info on how to donate, click here.</p>
                             <div class="urgent-cause__btn">
                                 <a href="/donate-now"> <span class="fa fa-heart"></span>Donate now</a>
                             </div>
