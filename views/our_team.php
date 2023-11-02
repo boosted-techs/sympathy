@@ -86,6 +86,28 @@ to helping the needy particularly youth and girl child.</p>
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
+                                <img src="/assets/new/aron.jpeg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">
+                                    Aaron started of his corporate career at Forrester Research working within the research and advisory space helping Nasdaq and FTSE listed organisation better their tech stack and customer-centric strategies. After 3 years at Forrester, Aaron crossed over into the anti-money laundering and counter terrorism financing space, working with some of the largest banks across the Middle East and the UK. In this time, the technology Aaron has provided has helped prevent illicit acts of human trafficking, forced child labour, terrorism and more. Aaron has a vested interest in helping his community and wider region within less economically developed countries. His Grandfather was a paramount figure for the nation of Belize and the improvement of that nations educational system and independence
+                                </p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Aarons</h4>
+                                    <p class="testimonial-two__client-sub-title">Deputy spokesperson</p>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div>
+                    <div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
                                 <img src="/assets/new/angel-vice.jpg" alt="">
                             </div>
                             <div class="testimonial-two__content">
@@ -175,11 +197,12 @@ A passionate advocate of women’s empowerment, she is keen on collaborative spa
                             </div>
                         </div>
                         <!--Testimonial Two Single End-->
-                    </div><div class="item">
+                    </div>
+                    <div class="item">
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/original-logo.png" alt="">
+                                <img src="/assets/new/brahim.jpeg" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"

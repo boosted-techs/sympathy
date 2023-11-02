@@ -145,9 +145,14 @@ Your time and efforts will leave a lasting impact and create memories that will 
                                     </li>
                                 </ul>
                                 <div class="site-footer__social">
+
                                     <a href="https://twitter.com/sympathy_africa"><i class="fab fa-twitter"></i></a>
                                     <a href="https://www.facebook.com/profile.php?id=61550633026029&mibextid=LQQJ4d"><i class="fab fa-facebook"></i></a>
                                     <a href="tel:+256780788933"><i class="fab fa-whatsapp"></i></a>
+                                    <a href="https://www.linkedin.com/in/sympathy-africa-b87bbb294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
+
                                     <a href="https://instagram.com/sympathy_africa?igshid=OGQ5ZDc2ODk2ZA=="><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
@@ -200,10 +205,15 @@ Your time and efforts will leave a lasting impact and create memories that will 
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="#" class="fab fa-instagram"></a>
+
+                    <a href="https://twitter.com/sympathy_africa"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=61550633026029&mibextid=LQQJ4d"><i class="fab fa-facebook"></i></a>
+                    <a href="tel:+256780788933"><i class="fab fa-whatsapp"></i></a>
+                    <a href="https://www.linkedin.com/in/sympathy-africa-b87bbb294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+
+                    <a href="https://instagram.com/sympathy_africa?igshid=OGQ5ZDc2ODk2ZA=="><i class="fab fa-instagram"></i></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 

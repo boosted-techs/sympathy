@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="/assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Sympathy Africa " />
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
 

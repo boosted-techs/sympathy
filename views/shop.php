@@ -108,7 +108,7 @@ By purchasing a YoungArt craft, you're not just acquiring a treasure; you're bec
                                         <div class="product__all-single">
                                             <div class="product__all-single-inner">
                                                 <div class="product__all-img">
-                                                    <img src="/assets/new/tshirts.webp" alt="">
+                                                    <img src="/assets/new/sympathy-tshirt.jpeg" alt="">
                                                 </div>
                                                 <div class="product__all-content">
                                                     <div class="product__all-review">
