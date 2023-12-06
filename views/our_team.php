@@ -64,11 +64,11 @@ include "parts/header.php";
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/kabira-chairman.jpg" alt="">
+                                <img src="/assets/new/kabira-chairman.jpg" style="object-fit: contain" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                     style="background-image: url(assets/new/pin.png);">
                                 </div>
                                 <p class="testimonial-two__text">Kirabira is the founder of Sympathy Africa with a master’s Degree in Bhakt/Religious principles and 
 Diploma in Marketing and Certificate in Education, He’s former Head Master and Founder Hill Top Primary School who dedicated himself
@@ -82,37 +82,37 @@ to helping the needy particularly youth and girl child.</p>
                         </div>
                         <!--Testimonial Two Single End-->
                     </div>
-<!--                    <div class="item">-->
-<!--                        <!--Testimonial Two Single Start-->-->
-<!--                        <div class="testimonial-two__single">-->
-<!--                            <div class="testimonial-two__img">-->
-<!--                                <img src="/assets/new/aron.jpeg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-two__content">-->
-<!--                                <div class="testimonial-two__shape-1"-->
-<!--                                     style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">-->
-<!--                                </div>-->
-<!--                                <p class="testimonial-two__text">-->
-<!--                                    Aaron started of his corporate career at Forrester Research working within the research and advisory space helping Nasdaq and FTSE listed organisation better their tech stack and customer-centric strategies. After 3 years at Forrester, Aaron crossed over into the anti-money laundering and counter terrorism financing space, working with some of the largest banks across the Middle East and the UK. In this time, the technology Aaron has provided has helped prevent illicit acts of human trafficking, forced child labour, terrorism and more. Aaron has a vested interest in helping his community and wider region within less economically developed countries. His Grandfather was a paramount figure for the nation of Belize and the improvement of that nations educational system and independence-->
-<!--                                </p>-->
-<!--                                <div class="testimonial-two__client-info">-->
-<!--                                    <h4 class="testimonial-two__client-name">Aarons</h4>-->
-<!--                                    <p class="testimonial-two__client-sub-title">Deputy spokesperson</p>-->
-<!--                                </div>-->
-<!---->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <!--Testimonial Two Single End-->-->
-<!--                    </div>-->
                     <div class="item">
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/angel-vice.jpg" alt="">
+                                <img src="/assets/new/aron.jpeg" style="object-fit: contain" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                     style="background-image: url(assets/new/pin.png);">
+                                </div>
+                                <p class="testimonial-two__text">
+                                    Aaron started of his corporate career at Forrester Research working within the research and advisory space helping Nasdaq and FTSE listed organisation better their tech stack and customer-centric strategies. After 3 years at Forrester, Aaron crossed over into the anti-money laundering and counter terrorism financing space, working with some of the largest banks across the Middle East and the UK. In this time, the technology Aaron has provided has helped prevent illicit acts of human trafficking, forced child labour, terrorism and more. Aaron has a vested interest in helping his community and wider region within less economically developed countries. His Grandfather was a paramount figure for the nation of Belize and the improvement of that nations educational system and independence
+                                </p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Aarons</h4>
+                                    <p class="testimonial-two__client-sub-title">Deputy spokesperson</p>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div>
+                    <div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="/assets/new/angel-vice.jpg" style="object-fit: contain" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                     style="background-image: url(assets/new/pin.png);">
                                 </div>
                                 <p class="testimonial-two__text">
                                 Nakirijja Angel is a feminist and gender and development expert who is passionate about creating systems and structures that work favorably for all 
@@ -134,11 +134,11 @@ Currently, Angel as Vice Chair Person Sympathy Africa with a Degree in Health Da
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/mubejja.jpg" alt="">
+                                <img src="/assets/new/mubejja.jpg" style="object-fit: contain" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                     style="background-image: url(assets/new/pin.png);">
                                 </div>
                                 <p class="testimonial-two__text">
                                 Mumbenja Rovince is a Feminist and Family Lawyer with specific work and activism in the human rights sector through advocacy, and media advocacy. 
@@ -157,11 +157,11 @@ She previously worked as Lawyer at USPC Uganda Security Printing Company. She is
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/namusisi.jpg" alt="">
+                                <img src="/assets/new/namusisi.jpg" style="object-fit: contain" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                     style="background-image: url(assets/new/pin.png);">
                                 </div>
                                 <p class="testimonial-two__text">
                                 With over 7 years of experience Justine is also passionate about Sexual Reproductive Health and Human Rights, and 
@@ -180,11 +180,11 @@ she has been actively involved in various initiatives aimed at educating youth o
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/original-logo.png" alt="">
+                                <img src="/assets/new/original-logo.png" style="object-fit: contain" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                     style="background-image: url(assets/new/pin.png);">
                                 </div>
                                 <p class="testimonial-two__text">Sarah love the phrase 'Empowered women, empower women' This inspires her to do her job as a financial officer at Sympathy Africa with a solid background in 
 gender and human rights, holding a Degree in Social Worker Studies from the Makerere University. 
@@ -202,11 +202,11 @@ A passionate advocate of women’s empowerment, she is keen on collaborative spa
                         <!--Testimonial Two Single Start-->
                         <div class="testimonial-two__single">
                             <div class="testimonial-two__img">
-                                <img src="/assets/new/original-logo.png" alt="">
+                                <img src="/assets/new/original-logo.png" style="object-fit: contain" alt="">
                             </div>
                             <div class="testimonial-two__content">
                                 <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                     style="background-image: url(assets/new/pin.png);">
                                 </div>
                                 <p class="testimonial-two__text">Having spent 8 years working in developing countries in both the private and Non-Profit Organizations, his experiences have shown him that if there is to be change, 
 it must be driven from the grass roots upwards.With limited funds available Braham wants to ensure those funds are used to maximize the impact we have on people’s lives.</p>
